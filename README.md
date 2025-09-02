@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .APARTMENTS one-word domains still available to buy.
 
-This dataset contains 4,166 .APARTMENTS one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,173 .APARTMENTS one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.APARTMENTS one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=apartments-oneword-domains&utm_content=description.top) (3,897) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -31,7 +31,7 @@ If you want to search & filters the complete database of [.APARTMENTS one word d
 | abaxial.apartments    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.apartments   | available | 50       | 1%     | 8      |           |         |         |
 | abdicable.apartments  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.apartments  | available | 82       | 2%     | 9      |           |         |         |
+| abdominal.apartments  | available | 82       | 1%     | 9      |           |         |         |
 | abdominous.apartments | available | 56       | 1%     | 10     |           |         |         |
 | abducens.apartments   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.apartments   | available | 68       | 1%     | 8      |           |         |         |

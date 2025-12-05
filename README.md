@@ -34,7 +34,7 @@ If you want to search & filters the complete database of [.APARTMENTS one word d
 | abbatial.apartments   | available | 50       | 1%     | 8      |           |         |         |
 | abc.apartments        | available | 102      | 41%    | 3      |           |         |         |
 | abdicable.apartments  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.apartments  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.apartments  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.apartments | available | 56       | 1%     | 10     |           |         |         |
 | abducens.apartments   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.apartments   | available | 68       | 1%     | 8      |           |         |         |
@@ -43,7 +43,7 @@ If you want to search & filters the complete database of [.APARTMENTS one word d
 | aberdonian.apartments | available | 68       | 1%     | 10     |           |         |         |
 | aberrant.apartments   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.apartments    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.apartments  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.apartments  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.apartments    | available | 106      | 5%     | 7      |           |         |         |
 | abient.apartments     | available | 54       | 1%     | 6      |           |         |         |
 | ability.apartments    | available | 92       | 18%    | 7      |           |         |         |

@@ -71,13 +71,13 @@ print(df.head())
 | home.apartments     | resell    | —         | —             | 100            | 62     | 4      | Dynadot Inc         |
 | abc.apartments      | premium   | $85.80    | $85.80        | 102            | 50     | 3      | namecheap           |
 | true.apartments     | available | $19.99    | $83.99        | 86             | 52     | 4      | name.com            |
-| open.apartments     | resell    | —         | —             | 106            | 61     | 4      | Sav.com, LLC - 22   |
+| space.apartments    | resell    | —         | —             | 76             | 61     | 5      | Gransy, s.r.o.      |
 | air.apartments      | premium   | $128.70   | $128.70       | 84             | 49     | 3      | namecheap           |
 | game.apartments     | available | $19.99    | $83.99        | 120            | 50     | 4      | name.com            |
-| space.apartments    | resell    | —         | —             | 76             | 61     | 5      | Gransy, s.r.o.      |
+| web.apartments      | resell    | —         | —             | 72             | 61     | 3      | GoDaddy.com, LLC    |
 | travel.apartments   | premium   | $520      | $520          | 115            | 48     | 6      | namecheap           |
 | security.apartments | available | $72.98    | —             | 70             | 49     | 8      | namecheap           |
-| web.apartments      | resell    | —         | —             | 72             | 61     | 3      | GoDaddy.com, LLC    |
+| open.apartments     | resell    | —         | —             | 106            | 60     | 4      | Sav.com, LLC - 22   |
 | gold.apartments     | premium   | $128.70   | $128.70       | 72             | 48     | 4      | namecheap           |
 | simple.apartments   | available | $19.99    | $83.99        | 128            | 48     | 6      | name.com            |
 | sex.apartments      | resell    | —         | —             | 98             | 59     | 3      | united-domains GmbH |

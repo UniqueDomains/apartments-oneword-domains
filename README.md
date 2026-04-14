@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .apartments one-word domains from 
 
 **Public extract:** 9,641 rows · **Live catalog:** 9,641 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/apartments`  
 **Best for:** founders, investors, studios
 
@@ -67,19 +67,19 @@ print(df.head())
 | easy.apartments     | available | $19.99    | $83.99        | 128            | 68     | 4      | name.com            |
 | business.apartments | resell    | $72.98    | —             | 100            | 53     | 8      | Sav.com, LLC        |
 | art.apartments      | premium   | $85.80    | $85.80        | 90             | 52     | 3      | namecheap           |
-| fast.apartments     | available | $19.99    | $83.99        | 82             | 53     | 4      | name.com            |
+| true.apartments     | available | $19.99    | $83.99        | 86             | 52     | 4      | name.com            |
 | home.apartments     | resell    | —         | —             | 100            | 62     | 4      | Dynadot Inc         |
 | abc.apartments      | premium   | $85.80    | $85.80        | 102            | 50     | 3      | namecheap           |
-| true.apartments     | available | $19.99    | $83.99        | 86             | 52     | 4      | name.com            |
+| fast.apartments     | available | $19.99    | $83.99        | 82             | 52     | 4      | name.com            |
 | space.apartments    | resell    | —         | —             | 76             | 61     | 5      | Gransy, s.r.o.      |
 | air.apartments      | premium   | $128.70   | $128.70       | 84             | 49     | 3      | namecheap           |
 | game.apartments     | available | $19.99    | $83.99        | 120            | 50     | 4      | name.com            |
 | web.apartments      | resell    | —         | —             | 72             | 61     | 3      | GoDaddy.com, LLC    |
 | travel.apartments   | premium   | $520      | $520          | 115            | 48     | 6      | namecheap           |
-| security.apartments | available | $72.98    | —             | 70             | 49     | 8      | namecheap           |
+| simple.apartments   | available | $19.99    | $83.99        | 128            | 49     | 6      | name.com            |
 | open.apartments     | resell    | —         | —             | 106            | 60     | 4      | Sav.com, LLC - 22   |
 | gold.apartments     | premium   | $128.70   | $128.70       | 72             | 48     | 4      | namecheap           |
-| simple.apartments   | available | $19.99    | $83.99        | 128            | 48     | 6      | name.com            |
+| security.apartments | available | $72.98    | —             | 70             | 49     | 8      | namecheap           |
 | sex.apartments      | resell    | —         | —             | 98             | 59     | 3      | united-domains GmbH |
 | car.apartments      | premium   | $128.70   | $128.70       | 94             | 46     | 3      | namecheap           |
 | trade.apartments    | available | $72.98    | —             | 116            | 46     | 5      | namecheap           |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .APARTMENTS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .APARTMENTS One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

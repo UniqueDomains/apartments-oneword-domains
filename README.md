@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .apartments one-word domain
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,604 domains · **Median ask:** $25.08 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/apartments`  
 **Best for:** founders, investors, studios
 
@@ -75,15 +75,15 @@ print(df.head())
 | tokens.apartments       | available | $19.99    | —             | 51             | 36     | 6      | name.com         |
 | aliens.apartments       | available | $19.99    | —             | 56             | 35     | 6      | name.com         |
 | tickets.apartments      | available | $19.99    | —             | 64             | 34     | 7      | name.com         |
-| etc.apartments          | available | $19.99    | —             | 58             | 34     | 3      | name.com         |
 | teams.apartments        | available | $19.99    | —             | 62             | 32     | 5      | name.com         |
 | trends.apartments       | available | $19.99    | —             | 60             | 32     | 6      | name.com         |
+| etc.apartments          | available | $19.99    | —             | 58             | 32     | 3      | name.com         |
 | maps.apartments         | available | $19.99    | —             | 56             | 31     | 4      | name.com         |
 | solutions.apartments    | available | $19.99    | —             | 56             | 31     | 9      | name.com         |
 | videos.apartments       | available | $19.99    | —             | 52             | 30     | 6      | name.com         |
+| gods.apartments         | available | $19.99    | —             | 72             | 29     | 4      | name.com         |
 | blocks.apartments       | available | $19.99    | —             | 53             | 29     | 6      | name.com         |
 | commonground.apartments | available | $19.99    | —             | 74             | 28     | 13     | name.com         |
-| gems.apartments         | available | $19.99    | —             | 70             | 28     | 4      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .APARTMENTS One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .APARTMENTS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .apartments one-word domain
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,604 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,604 domains · **Median ask:** $25.08 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,604 domains · **Median ask:** $22.47 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/apartments`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ----------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| robots.apartments       | available | $19.99    | —             | 62             | 47     | 6      | name.com         |
-| agents.apartments       | resell    | —         | —             | 56             | 50     | 6      | GoDaddy.com, LLC |
-| SantaClara.apartments   | premium   | $92.40    | $92.40        | 75             | 9      | 11     | namecheap        |
-| Ryan.apartments         | available | $72.98    | —             | 60             | 44     | 4      | namecheap        |
-| shortcuts.apartments    | available | $19.99    | —             | 48             | 41     | 10     | name.com         |
-| lets.apartments         | available | $19.99    | —             | 77             | 39     | 4      | name.com         |
-| events.apartments       | available | $19.99    | —             | 68             | 37     | 6      | name.com         |
-| stories.apartments      | available | $19.99    | —             | 58             | 36     | 7      | name.com         |
-| tokens.apartments       | available | $19.99    | —             | 51             | 36     | 6      | name.com         |
-| aliens.apartments       | available | $19.99    | —             | 56             | 35     | 6      | name.com         |
-| tickets.apartments      | available | $19.99    | —             | 64             | 34     | 7      | name.com         |
-| teams.apartments        | available | $19.99    | —             | 62             | 32     | 5      | name.com         |
-| trends.apartments       | available | $19.99    | —             | 60             | 32     | 6      | name.com         |
-| etc.apartments          | available | $19.99    | —             | 58             | 32     | 3      | name.com         |
-| maps.apartments         | available | $19.99    | —             | 56             | 31     | 4      | name.com         |
-| solutions.apartments    | available | $19.99    | —             | 56             | 31     | 9      | name.com         |
-| videos.apartments       | available | $19.99    | —             | 52             | 30     | 6      | name.com         |
-| gods.apartments         | available | $19.99    | —             | 72             | 29     | 4      | name.com         |
-| blocks.apartments       | available | $19.99    | —             | 53             | 29     | 6      | name.com         |
-| commonground.apartments | available | $19.99    | —             | 74             | 28     | 13     | name.com         |
+| domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| clothes.apartments     | available | $19.99    | —             | 82             | 19     | 7      | name.com  |
+| mid.apartments         | available | $19.99    | —             | 80             | 25     | 3      | name.com  |
+| affirmative.apartments | available | $19.99    | —             | 112            | 6      | 11     | name.com  |
+| teamwork.apartments    | available | $19.99    | —             | 82             | 20     | 8      | name.com  |
+| exercise.apartments    | available | $19.99    | —             | 98             | 15     | 8      | name.com  |
+| shirt.apartments       | available | $19.99    | —             | 90             | 20     | 5      | name.com  |
+| language.apartments    | available | $19.99    | —             | 116            | 30     | 8      | name.com  |
+| chimney.apartments     | available | $19.99    | —             | 90             | 13     | 7      | name.com  |
+| hear.apartments        | available | $19.99    | —             | 106            | 19     | 4      | name.com  |
+| desk.apartments        | available | $19.99    | —             | 100            | 31     | 4      | name.com  |
+| mental.apartments      | available | $19.99    | —             | 86             | 25     | 6      | name.com  |
+| guts.apartments        | available | $19.99    | —             | 97             | 16     | 4      | name.com  |
+| careful.apartments     | available | $19.99    | —             | 82             | 10     | 7      | name.com  |
+| match.apartments       | premium   | —         | —             | 102            | 18     | 5      | —         |
+| really.apartments      | available | $19.99    | —             | 112            | 23     | 6      | name.com  |
+| disco.apartments       | available | $19.99    | —             | 104            | 32     | 5      | name.com  |
+| washing.apartments     | available | $19.99    | —             | 88             | 9      | 7      | name.com  |
+| snippet.apartments     | available | $19.99    | —             | 92             | 15     | 7      | name.com  |
+| uniform.apartments     | available | $19.99    | —             | 108            | 21     | 7      | name.com  |
+| emoji.apartments       | available | $19.99    | —             | 88             | 38     | 5      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .APARTMENTS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .APARTMENTS One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

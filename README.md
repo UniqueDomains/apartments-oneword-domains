@@ -1,10 +1,10 @@
-# Available .APARTMENTS One-Word Domains (12,604)
+# Available .APARTMENTS One-Word Domains (12,605)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C604%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C605%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .apartments one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,604 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,605 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,604 domains · **Median ask:** $22.47 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,605 domains · **Median ask:** $22.17 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/apartments`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/apartments`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .APARTMENTS one-word d
 
 ### Files
 
-- `apartments.csv` — public CSV extract (1,000 rows)
-- `apartments.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `apartments.csv`, public CSV extract (1,000 rows)
+- `apartments.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| clothes.apartments     | available | $19.99    | —             | 82             | 19     | 7      | name.com  |
-| mid.apartments         | available | $19.99    | —             | 80             | 25     | 3      | name.com  |
-| affirmative.apartments | available | $19.99    | —             | 112            | 6      | 11     | name.com  |
-| teamwork.apartments    | available | $19.99    | —             | 82             | 20     | 8      | name.com  |
-| exercise.apartments    | available | $19.99    | —             | 98             | 15     | 8      | name.com  |
-| shirt.apartments       | available | $19.99    | —             | 90             | 20     | 5      | name.com  |
-| language.apartments    | available | $19.99    | —             | 116            | 30     | 8      | name.com  |
-| chimney.apartments     | available | $19.99    | —             | 90             | 13     | 7      | name.com  |
-| hear.apartments        | available | $19.99    | —             | 106            | 19     | 4      | name.com  |
-| desk.apartments        | available | $19.99    | —             | 100            | 31     | 4      | name.com  |
-| mental.apartments      | available | $19.99    | —             | 86             | 25     | 6      | name.com  |
-| guts.apartments        | available | $19.99    | —             | 97             | 16     | 4      | name.com  |
-| careful.apartments     | available | $19.99    | —             | 82             | 10     | 7      | name.com  |
-| match.apartments       | premium   | —         | —             | 102            | 18     | 5      | —         |
-| really.apartments      | available | $19.99    | —             | 112            | 23     | 6      | name.com  |
-| disco.apartments       | available | $19.99    | —             | 104            | 32     | 5      | name.com  |
-| washing.apartments     | available | $19.99    | —             | 88             | 9      | 7      | name.com  |
-| snippet.apartments     | available | $19.99    | —             | 92             | 15     | 7      | name.com  |
-| uniform.apartments     | available | $19.99    | —             | 108            | 21     | 7      | name.com  |
-| emoji.apartments       | available | $19.99    | —             | 88             | 38     | 5      | name.com  |
+| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| bad.apartments       | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
+| one.apartments       | available | —         | —             | high           | medium | 3      | —                |
+| act.apartments       | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| elite.apartments     | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC |
+| aft.apartments       | available | $19.99    | $83.99        | low            | low    | 3      | name.com         |
+| cleveland.apartments | resell    | —         | —             | medium         | low    | 9      | GoDaddy.com, LLC |
+| dot.apartments       | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
+| bob.apartments       | available | $19.99    | —             | high           | medium | 3      | name.com         |
+| for.apartments       | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
+| bug.apartments       | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| gay.apartments       | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo         |
+| bus.apartments       | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| led.apartments       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| cow.apartments       | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| let.apartments       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| cry.apartments       | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| mix.apartments       | premium   | $83.99    | $82.50        | medium         | low    | 3      | name.com         |
+| due.apartments       | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| roi.apartments       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| eye.apartments       | available | $19.99    | —             | medium         | low    | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,604 live domains                        |
+| 1,000-row public sample | 12,605 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is defined by one filter only: the .apartments extension. That creates a very specific naming set where the extension carries the category signal, and the word in front does most of the branding work. Some names read naturally with the extension, while others feel broad or mismatched, such as clothes.apartments or chimney.apartments. For founders, the best choices are the ones that sound credible, memorable, and easy to explain in a housing context. For investors, the key question is whether the keyword has clear category fit and realistic resale appeal at the current ask level. Median ask is 25.08, so renewal discipline matters more than chasing weak inventory.
+This list covers one-word .apartments domains available now, spanning simple everyday words to distinctive standalone terms. Pricing sits mostly below $500, with a median ask near $22, making this a low-cost entry point for testing brandable names. Demand signals are mostly low, with a small share of names showing stronger interest — useful for spotting outliers before committing.
 
-- Prioritize words that pair naturally with .apartments
-- Avoid broad terms with weak housing relevance
-- Use ask price with renewal risk, not ask alone
-- Favor clear, memorable words over clever ones
+- 12,605 available one-word .apartments domains
+- Median ask ~$22; most names priced under $500
+- Demand mostly low, with a handful of standout names
+- Includes everyday words like half, out, and correct
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .APARTMENTS One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .APARTMENTS One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

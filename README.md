@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .apartments one-word domain
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,229 domains · **Median ask:** $25.30 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-11
+**Last updated:** 2026-09-12
 **Canonical page:** `https://unique.domains/domains/tld/apartments`
 **Best for:** founders, investors, studios
 
@@ -64,9 +64,9 @@ print(df.head())
 
 | domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| bad.apartments       | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
 | act.apartments       | available | $19.99    | —             | high           | low    | 3      | name.com         |
 | elite.apartments     | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC |
-| bad.apartments       | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
 | aft.apartments       | available | $19.99    | $83.99        | low            | low    | 3      | name.com         |
 | cleveland.apartments | resell    | —         | —             | medium         | low    | 9      | GoDaddy.com, LLC |
 | dot.apartments       | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .APARTMENTS One-Word Domains*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .APARTMENTS One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

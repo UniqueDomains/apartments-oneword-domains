@@ -1,6 +1,5 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 069fe432-8e6d-4710-b6e7-561b50e3ca6e,tape.apartments,available,19.99,,high,low,4,name.com,,,
-16238400-fd6e-44ee-a960-b9f30ddd5629,outlook.apartments,available,,,high,low,7,,,,
 bf773cd0-038e-4f63-8264-74162b841052,request.apartments,available,19.99,,high,low,7,name.com,,,
 1a019f7a-3b4f-4ff8-b5dd-b713290110de,fantasy.apartments,available,19.99,,high,low,7,name.com,,,
 dc6225bc-8808-4807-808a-a48bc7afe806,themself.apartments,available,19.99,,low,low,8,name.com,,,
@@ -890,7 +889,7 @@ ed22cc65-eed1-43ca-9f0e-bf56c9cd9a7d,belong.apartments,available,19.99,,high,low
 8853e7ee-5064-4633-a51e-9f013cd50f68,forty.apartments,available,19.99,83.99,low,low,5,name.com,,,
 792fe6a0-83b9-42b5-bca9-8bed9264390f,ignite.apartments,available,19.99,,high,low,6,name.com,,,
 dc5bf436-1666-493b-aeff-90e502645d8f,archean.apartments,available,19.99,83.99,low,low,7,name.com,,,06/08/2026 15:05
-f8c9da64-6e51-4d6c-8133-bd50d0cb28eb,tieup.apartments,available,19.99,,low,low,6,name.com,,,
+f8c9da64-6e51-4d6c-8133-bd50d0cb28eb,tieup.apartments,available,57.99,57.99,low,low,6,namesilo,,,17/09/2026 14:23
 6d772bfa-625b-4d5d-a961-e985601525fb,rice.apartments,available,19.99,,high,low,4,name.com,,,
 6e39df73-ba10-443f-9f38-d54c7a440cfa,torturous.apartments,available,19.99,83.99,low,low,9,name.com,,,
 397d66e2-c97d-4923-bc4d-5b025c68582f,cow.apartments,available,19.99,,high,low,3,name.com,,,
@@ -999,3 +998,4 @@ f108485d-0e88-433f-bc2b-5ff526abd6eb,astimegoesby.apartments,available,19.99,,me
 e1739e4d-eac6-4cea-99fa-2745453dbd72,IKiribati.apartments,available,19.99,,high,low,10,name.com,,,
 67449d7a-f9a7-4379-917c-51dddfda9308,antitank.apartments,available,19.99,83.99,low,low,8,name.com,,,05/08/2026 19:44
 359a260a-bc83-447c-86e6-20c54e0165bf,trace.apartments,available,19.99,,medium,low,5,name.com,,,
+4096c388-358e-44d9-91dc-573a1d1ece22,tow.apartments,available,19.99,,medium,low,3,name.com,,,

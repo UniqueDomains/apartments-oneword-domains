@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .apartments one-word domain
 
 **Public extract:** 1,000 rows · **Live catalog:** 30,043 domains · **Median ask:** $35.95 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/apartments`
 **Best for:** founders, investors, studios
 
@@ -73,7 +73,7 @@ print(df.head())
 | bob.apartments       | available | $57.99    | $57.99        | medium         | low    | 3      | namesilo         |
 | for.apartments       | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
 | bug.apartments       | available | $19.99    | —             | high           | low    | 3      | name.com         |
-| gay.apartments       | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo         |
+| gay.apartments       | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo         |
 | bus.apartments       | available | $19.99    | —             | high           | low    | 3      | name.com         |
 | led.apartments       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
 | cow.apartments       | available | $19.99    | —             | high           | low    | 3      | name.com         |
@@ -82,7 +82,7 @@ print(df.head())
 | mix.apartments       | premium   | $85.80    | $85.80        | low            | low    | 3      | namecheap        |
 | due.apartments       | available | $57.99    | $57.99        | low            | low    | 3      | namesilo         |
 | roi.apartments       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
-| eye.apartments       | available | $19.99    | —             | medium         | low    | 3      | name.com         |
+| eye.apartments       | available | $60.98    | $72.98        | low            | low    | 3      | namecheap        |
 | club.apartments      | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .APARTMENTS One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .APARTMENTS One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

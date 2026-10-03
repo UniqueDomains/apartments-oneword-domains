@@ -33,6 +33,7 @@ ca2bbfaa-ba23-480c-81ac-d1e7e5cefece,acute.apartments,available,57.99,57.99,high
 c1000de7-86da-403a-bdcb-2ba03e1bb377,motorcar.apartments,available,57.99,57.99,high,low,8,namesilo,,,21/09/2026 05:29
 709b55df-3440-4f05-bbba-1361b155a58a,chatterer.apartments,available,57.99,57.99,high,low,9,namesilo,,,21/09/2026 12:24
 4f7b995f-ecfb-4062-9205-3a6c61b5dfb8,alluvium.apartments,available,57.99,57.99,medium,low,8,namesilo,,,18/09/2026 12:20
+f9230c67-0a5b-47b9-9b67-4cf57e997945,interpreting.apartments,available,45.74,45.74,high,low,12,spaceship,,,02/10/2026 12:24
 79c1af97-cf99-41f1-8712-5e223ea92a06,fizzing.apartments,available,19.99,83.99,medium,low,7,name.com,,,18/08/2026 06:02
 90532ea4-8b04-41fb-b2bb-54cd9d4c0ef1,nowise.apartments,available,57.99,57.99,low,low,6,namesilo,,,15/09/2026 17:05
 48cafe80-9d60-485d-88de-1552d04c13b3,delegate.apartments,available,60.98,72.98,high,low,8,namecheap,,,24/09/2026 21:30
@@ -44,10 +45,11 @@ af8f6c1b-f6c8-4109-ac17-549c44e784f7,alembic.apartments,available,57.99,57.99,me
 8bad9f24-ab9c-41ee-bd33-95b8040d1c9e,evidenced.apartments,available,19.99,83.99,high,low,9,name.com,,,17/08/2026 15:00
 a90a279d-ac8f-4d3d-bcf1-2bbca9365d8d,goddess.apartments,available,45.74,45.74,high,low,7,spaceship,,,27/09/2026 13:50
 ea284d39-0faf-49ed-9e46-7bdb5f4b6bd1,scandalous.apartments,available,19.99,83.99,medium,low,10,name.com,,,14/08/2026 10:26
-1d3bd4df-7621-4dc2-ade0-8ca7ec08da76,shopkeeper.apartments,available,45.74,45.74,high,low,10,spaceship,,,28/09/2026 02:48
+1d3bd4df-7621-4dc2-ade0-8ca7ec08da76,shopkeeper.apartments,available,45.74,45.74,high,low,10,spaceship,,,02/10/2026 05:44
 7d8f7f53-3e6e-459b-af89-1e5e45ff8817,spawning.apartments,available,44.2,44.2,high,low,8,cloudflare,,,30/09/2026 20:08
 cd0d78c4-666e-4c7b-9a08-450c496cf259,fasting.apartments,available,19.99,83.99,high,low,7,name.com,,,17/08/2026 23:03
 6de78a4a-12c3-4f78-b31c-ba2a4b31a2b4,opulent.apartments,available,19.99,83.99,high,low,7,name.com,,,14/08/2026 00:58
+9cb30ee2-58fd-43c4-a5d6-a37774cbccc0,alyssa.apartments,available,45.74,45.74,high,low,6,spaceship,,,02/10/2026 19:34
 582b7b30-e47f-44a8-8c21-2405d7102408,accretive.apartments,available,19.99,83.99,medium,low,9,name.com,,,
 f12d0226-4260-489f-9352-ce46e3877c27,peaky.apartments,available,19.99,83.99,medium,low,5,name.com,,,08/09/2026 11:10
 8dc7dfc3-4f60-40d4-9fed-a27fbfa2e1d7,happy.apartments,premium,118.8,118.8,high,medium,5,namesilo,,,24/09/2026 23:31
@@ -83,7 +85,7 @@ d560ce53-a31c-46e7-9341-34d189de143b,jennings.apartments,available,60.98,72.98,h
 5f79b6ef-398b-49f2-8aec-d91b7a919ca8,amble.apartments,available,57.99,57.99,medium,low,5,namesilo,,,18/09/2026 16:54
 eaa26ee2-097f-4bb6-93b8-00450a197b7f,sephardic.apartments,available,57.99,57.99,medium,low,9,namesilo,,,30/09/2026 06:25
 92800a6b-e4b0-4112-a36a-7860450a9667,gutenberg.apartments,available,60.98,72.98,high,low,9,namecheap,,,01/10/2026 02:22
-d573e753-4249-498c-9c1e-ea7b1f18cf1d,cleanup.apartments,available,19.99,83.99,high,low,7,name.com,,,12/08/2026 10:26
+d573e753-4249-498c-9c1e-ea7b1f18cf1d,cleanup.apartments,available,60.98,72.98,medium,low,7,namecheap,,,02/10/2026 21:28
 a4a0c768-93ca-416d-98a7-81c7e524f30c,increased.apartments,available,57.99,57.99,high,low,9,namesilo,,,25/09/2026 08:09
 b607572b-d52b-4fec-a9ce-9064e274cac5,palace.apartments,available,57.99,57.99,high,low,6,namesilo,,,29/09/2026 07:39
 436700be-cfbd-4be0-af57-a9df10692553,aconite.apartments,available,60.98,72.98,medium,low,7,namecheap,,,17/09/2026 02:05
@@ -98,7 +100,8 @@ e114e5c7-00d6-4028-b7ca-5dde0731e17e,coefficient.apartments,available,57.99,57.9
 8d1ffc04-f945-4d28-9e3f-a8117d5aaa31,enforce.apartments,available,57.99,57.99,high,low,7,namesilo,,,29/09/2026 08:23
 037d1743-1ee0-4b84-bfcf-da87bfa8c3b7,clinched.apartments,available,19.99,83.99,medium,low,8,name.com,,,12/08/2026 10:46
 76419ed0-cdad-4364-9734-08c6fb0772d2,unbroken.apartments,available,19.99,83.99,high,low,8,name.com,,,22/08/2026 15:36
-a53faa34-f49b-46fb-8028-97aabde1e90f,seals.apartments,available,19.99,,high,low,5,name.com,,,
+a53faa34-f49b-46fb-8028-97aabde1e90f,seals.apartments,available,60.98,72.98,high,low,5,namecheap,,,02/10/2026 13:57
+25239cf0-4985-49a7-8608-73a5435b8a34,mistook.apartments,available,10.92,47.3,low,low,7,dynadot,,,02/10/2026 21:18
 95b075bc-bee2-4caf-a764-d2f74f2e04a6,joshua.apartments,available,57.99,57.99,high,low,6,namesilo,,,24/09/2026 06:58
 6bfa7df0-ad84-4b97-b781-5e3cb7d6f060,vertigo.apartments,available,57.99,57.99,high,low,7,namesilo,,,01/10/2026 01:46
 1ce1dc24-eb31-4bb0-a6c7-438ce32d1a66,fallout.apartments,available,57.99,57.99,medium,low,7,namesilo,,,02/10/2026 01:22
@@ -119,19 +122,22 @@ ef45368b-6aa5-4c7e-b075-e6e08e3139e6,nipper.apartments,available,19.99,83.99,med
 a924e704-b712-45f8-90e0-0c67fe5f7e60,indigo.apartments,premium,118.8,118.8,high,low,6,namesilo,,,22/08/2026 03:01
 aa81a6d6-ad4c-4434-839b-4fadfde25f85,television.apartments,available,44.2,44.2,high,low,10,cloudflare,,,01/10/2026 08:09
 13c5f11b-4d87-45f8-afac-6be73a60dc55,atomistic.apartments,available,19.99,83.99,low,low,9,name.com,,,07/08/2026 13:42
+b1581b24-eb3d-457b-95f7-19c61840fd2e,subspecies.apartments,available,45.74,45.74,medium,low,10,spaceship,,,02/10/2026 06:30
 956401b7-9d08-4282-b579-9d3836da08ac,ropeway.apartments,available,57.99,57.99,medium,low,7,namesilo,,,17/09/2026 12:50
 20da192b-df26-4497-b1bb-2794b65c4f23,exon.apartments,available,60.98,72.98,medium,low,4,namecheap,,,30/09/2026 01:04
 fe159281-7718-4604-8d39-c9e1732cd0eb,piggy.apartments,available,19.99,83.99,high,low,5,name.com,,,21/08/2026 10:19
 03321d16-6bac-438d-8d9b-ad52782dfa75,grassless.apartments,available,19.99,83.99,medium,low,9,name.com,,,20/08/2026 18:13
 1376c6ec-594d-4e24-af7c-ad838279a4cb,duodenal.apartments,available,19.99,83.99,medium,low,8,name.com,,,14/08/2026 21:21
+aa3df0c0-51f0-46a4-afa2-4df945233a99,cablevision.apartments,available,45.74,45.74,high,low,11,spaceship,,,02/10/2026 11:42
 98155043-8c09-4006-9c99-c5e8589ecd01,equator.apartments,available,57.99,57.99,high,low,7,namesilo,,,30/09/2026 09:34
 d588fb75-3305-454f-85ee-2f69b82f4429,refulgent.apartments,available,19.99,83.99,high,low,9,name.com,,,15/08/2026 16:26
 86eb373b-fd2f-4840-a46e-b8f4f94a015a,heels.apartments,available,57.99,57.99,high,low,5,namesilo,,,27/09/2026 10:19
 0f358db3-349c-402e-b1af-af26c2c4c104,theatres.apartments,available,57.99,57.99,medium,low,8,namesilo,,,20/09/2026 19:41
-832814f8-bb5d-43ab-a6b6-cedc31f29fd9,skype.apartments,available,,,high,medium,5,,,,
 7f70abf9-a727-4b7a-a2ac-eb0a673f6634,archine.apartments,available,57.99,57.99,medium,low,7,namesilo,,,20/09/2026 02:10
 96925920-459c-432a-8929-5b281f91f952,fantasies.apartments,available,57.99,57.99,low,low,9,namesilo,,,28/09/2026 23:52
 27aceb0d-ea56-4612-89a1-3d454322cef8,worthful.apartments,available,57.99,57.99,medium,low,8,namesilo,,,13/09/2026 13:26
+275734e0-cb63-4f10-b5e5-0860d17f2bcc,mcu.apartments,available,57.99,57.99,high,low,3,namesilo,,,03/10/2026 04:05
+a1aa20f8-2735-496e-8d22-939b0a04557c,lotta.apartments,available,44.2,44.2,medium,low,5,cloudflare,,,03/10/2026 03:04
 6c40620d-0078-4e8a-b99e-51f788180969,transformed.apartments,available,45.74,45.74,high,low,11,spaceship,,,29/09/2026 10:35
 a576f42f-e503-4a76-8832-bd9e49819e09,dwelling.apartments,available,60.98,72.98,high,low,8,namecheap,,,29/09/2026 17:19
 5546adb1-4b05-444d-a5ab-97e4999e92cc,eels.apartments,available,57.99,57.99,high,low,4,namesilo,,,02/10/2026 03:24
@@ -142,7 +148,7 @@ ccc39b90-b7bf-4a3e-b624-29381c69061c,anhui.apartments,available,45.74,45.74,medi
 1bc4e950-81c4-4143-b682-6a4edd48ea99,fizzy.apartments,available,19.99,83.99,high,low,5,name.com,,,18/08/2026 06:03
 1fb34f19-8929-45a1-94c5-59f1c8e362b2,kepler.apartments,available,57.99,57.99,medium,low,6,namesilo,,,29/09/2026 01:24
 3966e694-c740-4f14-8fce-d9d55fb59dd6,cockmaster.apartments,available,60.98,72.98,low,low,10,namecheap,,,01/10/2026 07:58
-8d65e5c3-5c92-4975-8335-9fc07a0b8c2b,accounted.apartments,available,19.99,,medium,low,9,name.com,,,
+8d65e5c3-5c92-4975-8335-9fc07a0b8c2b,accounted.apartments,available,10.92,47.3,medium,low,9,dynadot,,,03/10/2026 01:24
 c72110ea-213e-41e9-b87b-ca34d0497c17,lipscomb.apartments,available,45.74,45.74,medium,low,8,spaceship,,,30/09/2026 17:55
 997a5e38-d370-418d-8e5c-a17774e8e746,toothsome.apartments,available,19.99,83.99,medium,low,9,name.com,,,14/08/2026 00:24
 d693ef80-c0da-4d40-a5d0-d9419388bee0,elytra.apartments,available,57.99,57.99,medium,low,6,namesilo,,,29/09/2026 23:37
@@ -153,14 +159,15 @@ ffe9ee34-1bdd-4d42-abf2-21efc5eb74cc,bayou.apartments,available,60.98,72.98,high
 9eeb0ebe-ae23-4fab-b7c8-9e7c8f0b5b34,demolished.apartments,available,19.99,83.99,medium,low,10,name.com,,,14/08/2026 01:21
 2a8648d6-2917-474e-9c93-dbd235fcf9be,passages.apartments,available,45.74,45.74,medium,low,8,spaceship,,,29/09/2026 16:50
 9f1f7ec2-7d6e-410d-b8c3-92ec1e27fe19,juliette.apartments,available,57.99,57.99,medium,low,8,namesilo,,,29/09/2026 15:24
-8c7fd888-c197-4f63-8250-1319e843f034,arriving.apartments,available,19.99,,medium,low,8,name.com,,,
+8c7fd888-c197-4f63-8250-1319e843f034,arriving.apartments,available,57.99,57.99,medium,low,8,namesilo,,,02/10/2026 17:03
+0a7ae42a-1a2f-4206-b9e7-84f576335078,scaffold.apartments,available,45.74,45.74,high,low,8,spaceship,,,02/10/2026 06:20
 7207943a-c04e-4100-83bc-f3a6b2eb8272,picked.apartments,available,44.2,44.2,high,low,6,cloudflare,,,01/10/2026 08:56
 b9b592e1-9c85-413a-9c24-bb7eac9be4b8,early.apartments,available,57.99,57.99,high,low,5,namesilo,,,24/09/2026 12:57
 4c6f78a2-e8e0-4849-9e6a-f3ae446e3153,exhibits.apartments,available,45.74,45.74,medium,low,8,spaceship,,,30/09/2026 00:23
 40bfe80f-f08e-4c80-882a-c9a381c1d4ac,inhibited.apartments,available,19.99,83.99,medium,low,9,name.com,,,22/08/2026 05:07
 27a521c6-09a5-463a-8d0b-4c67adf8ede1,billed.apartments,available,19.99,83.99,high,low,6,name.com,,,09/08/2026 21:23
 8679ff92-9f6d-42de-9f06-781a36e8669f,worm.apartments,available,44.2,44.2,high,low,4,cloudflare,,,29/09/2026 15:08
-a4849743-9f36-4292-a7ff-f7300b0b3923,yours.apartments,available,19.99,,high,low,5,name.com,,,
+a4849743-9f36-4292-a7ff-f7300b0b3923,yours.apartments,available,45.74,45.74,high,low,5,spaceship,,,02/10/2026 04:34
 c4a2c1b8-4246-42e1-8b0d-5457bc644ecb,quintette.apartments,available,60.98,72.98,medium,low,9,namecheap,,,09/09/2026 09:00
 c677fbff-bf24-4fc9-8c16-5296e4853830,breda.apartments,available,60.98,72.98,medium,low,5,namecheap,,,30/09/2026 21:05
 fb4f149a-ebd7-4af1-b071-55155fa29c89,vicennial.apartments,available,57.99,57.99,medium,low,9,namesilo,,,13/09/2026 05:23
@@ -178,12 +185,14 @@ d5d3d56a-0847-4aa8-95a9-fc3918364dbc,reverently.apartments,available,57.99,57.99
 14982c3f-8e84-4b6d-b89d-dc2445f73734,inherently.apartments,available,57.99,57.99,medium,low,10,namesilo,,,15/09/2026 08:20
 31d167dd-1d57-406f-b108-c998d3213c7e,showroom.apartments,available,45.74,45.74,high,low,8,spaceship,,,30/09/2026 02:32
 3fb017bc-29fd-4d6a-90d7-6b5c271e9aa8,boats.apartments,available,57.99,57.99,high,low,5,namesilo,,,17/09/2026 16:33
+e62d5c29-d45d-40e0-bb73-2858a5c612d2,nicolaus.apartments,available,57.99,57.99,medium,low,8,namesilo,,,02/10/2026 10:17
 882c8de5-9164-4fac-a52f-b4dd9af38f8c,neptune.apartments,available,45.74,45.74,high,low,7,spaceship,,,29/09/2026 01:43
 c26cb14f-04e2-4426-89e3-c22a97c52dc4,recovering.apartments,available,57.99,57.99,high,low,10,namesilo,,,23/09/2026 22:44
 d5d6e421-741b-49d1-adcc-1057ba84fc71,outwear.apartments,available,19.99,83.99,medium,low,7,name.com,,,13/09/2026 09:15
+5dacbdd1-6762-407a-ac32-f4505b82f757,jacobin.apartments,available,57.99,57.99,high,low,7,namesilo,,,02/10/2026 15:49
 8e98fc04-e3c8-4521-ab18-1a2366e9b2c8,anouilh.apartments,available,57.99,57.99,medium,low,7,namesilo,,,19/09/2026 11:52
 d4e11f3c-d46f-48f4-9949-18ae9658efec,graduating.apartments,available,45.74,45.74,low,low,10,spaceship,,,28/09/2026 12:36
-1659af0c-3249-441a-b1fd-921353ebe1ab,content.apartments,available,10.92,47.3,high,medium,7,dynadot,,,30/09/2026 05:56
+1659af0c-3249-441a-b1fd-921353ebe1ab,content.apartments,available,60.98,72.98,high,medium,7,namecheap,,,02/10/2026 07:22
 01d52c8f-2419-470d-bf30-a3e4da1cf31b,heterodox.apartments,available,19.99,83.99,medium,low,9,name.com,,,14/08/2026 12:37
 42a2bcdc-ee87-4ce8-86d9-76490b6e63bb,officials.apartments,available,60.98,72.98,medium,low,9,namecheap,,,17/09/2026 12:28
 5dc178e3-8a80-478f-bdaa-2b468b080957,zippy.apartments,available,19.99,83.99,high,low,5,name.com,,,11/08/2026 04:35
@@ -210,6 +219,7 @@ cd7717f5-2d2d-4b44-84fb-9f2ab9e5b1b9,manning.apartments,available,57.99,57.99,hi
 ee3b160f-11fa-4715-ba60-17333430a8dc,locomotor.apartments,available,19.99,83.99,high,low,9,name.com,,,24/08/2026 08:50
 db67e8fe-15e6-47fd-9abe-fed74aa85176,subscriber.apartments,available,60.98,72.98,high,low,10,namecheap,,,24/09/2026 17:47
 8c65d074-bfad-4775-befd-ad746b089407,represent.apartments,available,57.99,57.99,high,low,9,namesilo,,,30/09/2026 11:45
+743cd1f5-7c18-4c3c-8790-4b473a018f90,fertilization.apartments,available,44.2,44.2,medium,low,13,cloudflare,,,02/10/2026 11:15
 644187c9-4535-4b93-9ff0-10eb92b2abd0,affixed.apartments,available,19.99,83.99,medium,low,7,name.com,,,
 f9f9fd5d-3179-4e2b-a451-52dbeafbee4b,crap.apartments,available,45.74,45.74,medium,low,4,spaceship,,,29/09/2026 05:21
 82e3261b-a093-4778-9c15-f555f9cbb2b3,partizan.apartments,available,57.99,57.99,high,low,8,namesilo,,,08/09/2026 02:09
@@ -228,8 +238,8 @@ b859b344-7703-4fa0-b3bd-abab28031e72,blaming.apartments,available,60.98,72.98,me
 6706588b-f5b0-476f-ab0e-ba3c8a8ac673,arcsecond.apartments,available,57.99,57.99,medium,low,9,namesilo,,,20/09/2026 02:41
 d7516979-d760-4f0c-b9a0-4cb26f269d72,mock.apartments,available,19.99,83.99,high,low,4,name.com,,,25/08/2026 02:24
 3126bd95-0411-4cea-90af-18835c93d1d2,barth.apartments,available,57.99,57.99,medium,low,5,namesilo,,,22/09/2026 09:03
-2447d1f9-b9d6-4db5-8633-c5d9f9eb01b5,introduced.apartments,available,19.99,,high,low,10,name.com,,,
-0c8722e6-2607-4160-ae62-9b6c970ed58c,bets.apartments,available,19.99,,high,low,4,name.com,,,
+2447d1f9-b9d6-4db5-8633-c5d9f9eb01b5,introduced.apartments,available,60.98,72.98,high,low,10,namecheap,,,02/10/2026 20:00
+0c8722e6-2607-4160-ae62-9b6c970ed58c,bets.apartments,available,57.99,57.99,high,low,4,namesilo,,,02/10/2026 13:49
 37ddef6c-a1f7-44ec-9140-fe7bd5a605cf,unfed.apartments,available,57.99,57.99,medium,low,5,namesilo,,,12/09/2026 10:04
 35ab1039-601d-4c61-a9d4-84fc0b8e86a1,albitic.apartments,available,19.99,83.99,medium,low,7,name.com,,,
 19ad778d-e9aa-4e23-ace9-346712c9380b,fungible.apartments,available,19.99,83.99,high,low,8,name.com,,,18/08/2026 18:32
@@ -245,6 +255,7 @@ c9f65aa2-ca19-4246-927f-ecb10b56bcfb,rowland.apartments,available,60.98,72.98,hi
 67ea53e7-6fbb-4b60-9362-89e78d4455e2,clan.apartments,available,19.99,83.99,high,low,4,name.com,,,22/08/2026 16:05
 b86a8666-bdb7-4ffb-87bd-d5ab7a312a5f,marquis.apartments,available,60.98,72.98,high,low,7,namecheap,,,30/09/2026 17:02
 af6855dc-de0c-49cd-801c-f644f3c6e88a,meanwhile.apartments,available,57.99,57.99,high,low,9,namesilo,,,25/09/2026 10:13
+40fab0fd-9187-4c97-a770-b7debed97b48,cashel.apartments,available,57.99,57.99,medium,low,6,namesilo,,,03/10/2026 04:18
 32bca1fa-ffd1-42d0-a40e-970bc85cafd2,determine.apartments,available,45.74,45.74,high,low,9,spaceship,,,30/09/2026 11:01
 e855b7b2-3fcb-4b1c-bbaf-cea6983f747d,applaud.apartments,available,44.2,44.2,high,low,7,cloudflare,,,30/09/2026 15:09
 0b90fca8-6819-41cd-aca8-c00d3273260e,shears.apartments,available,57.99,57.99,high,low,6,namesilo,,,30/09/2026 11:05
@@ -255,6 +266,7 @@ eefa45cc-a15f-452b-be10-cd846664cb34,bette.apartments,available,57.99,57.99,medi
 bdf0acc3-2c54-4cce-8544-bceda1ee82da,voices.apartments,available,19.99,,medium,low,6,name.com,,,
 d0f64a41-bfc8-4b56-9690-99941efa6f50,monger.apartments,available,57.99,57.99,medium,low,6,namesilo,,,22/09/2026 05:36
 90074b2b-e483-45e0-b02c-2b84f13fa7af,shift.apartments,available,60.98,72.98,high,medium,5,namecheap,,,27/09/2026 21:11
+4febc760-5548-49f0-ada6-7381e6d7f14c,arbitration.apartments,available,45.74,45.74,high,low,11,spaceship,,,02/10/2026 21:27
 ce98bed9-d048-49a0-b0dc-ed5e2d7da35c,machines.apartments,available,45.74,45.74,high,low,8,spaceship,,,01/10/2026 04:58
 5b5620f0-fca2-4f05-8225-a5f7cfe17729,voluptuary.apartments,available,19.99,83.99,high,low,10,name.com,,,24/08/2026 12:27
 5dba3bc4-44ac-4b7c-b84b-4a6292c511c4,originally.apartments,available,57.99,57.99,high,low,10,namesilo,,,15/09/2026 07:14
@@ -271,6 +283,7 @@ ec1452d3-bf59-4644-babb-97a073d5bf0d,mermaid.apartments,available,60.98,72.98,hi
 be65c3c6-8443-453b-abff-fe8ec6d3f3dd,unitedly.apartments,available,57.99,57.99,medium,low,8,namesilo,,,16/09/2026 10:08
 c21bad18-a3db-428d-94af-eae90c8fa3ee,barrier.apartments,available,45.74,45.74,medium,low,7,spaceship,,,29/09/2026 01:15
 7a30a4ab-1ca0-4bac-9f0f-a154be8991c8,bohme.apartments,available,57.99,57.99,medium,low,5,namesilo,,,23/09/2026 03:34
+1d874898-e9bf-4998-a011-c3d2c28fed16,competed.apartments,available,45.74,45.74,medium,low,8,spaceship,,,02/10/2026 23:24
 50998ecd-76ac-47d5-a64b-4a68114ac29c,wilfrid.apartments,available,10.81,45.83,medium,low,7,porkbun,,,29/09/2026 09:35
 479fc28a-7ab6-4dc7-8d2f-b615af7442f0,sumerian.apartments,available,57.99,57.99,high,low,8,namesilo,,,11/09/2026 01:33
 9c4a0212-1bfa-4051-952b-7488ddc55934,unoriginal.apartments,available,57.99,57.99,medium,low,10,namesilo,,,12/09/2026 16:21
@@ -292,6 +305,7 @@ a7131fed-27ef-4ede-b709-67a491d614f3,andean.apartments,available,19.99,83.99,hig
 235a9df2-f168-465c-826e-8246f0c8f4a7,mediaeval.apartments,available,19.99,83.99,medium,low,9,name.com,,,24/08/2026 18:49
 482dc66b-d070-4bda-af10-0960dce3fbff,eastward.apartments,available,19.99,83.99,high,low,8,name.com,,,14/08/2026 22:48
 61c5e1c6-2965-4508-af69-5049b2c82c57,steroid.apartments,available,57.99,57.99,high,low,7,namesilo,,,01/10/2026 03:40
+e8e36ece-019a-45e5-838c-837a7f4c0e97,enrichment.apartments,available,45.74,45.74,high,low,10,spaceship,,,03/10/2026 00:40
 4b2cd8a0-18a9-4739-9a65-97ed7ea8de07,cislunar.apartments,available,19.99,83.99,medium,low,8,name.com,,,12/08/2026 08:30
 61717923-4cdc-4ade-b852-20b7c859ffef,username.apartments,available,45.74,45.74,high,low,8,spaceship,,,01/10/2026 05:01
 2ee5a9ea-fbc2-44fb-9bbf-7c17395964e0,curiosity.apartments,available,44.2,44.2,high,low,9,cloudflare,,,29/09/2026 13:03
@@ -300,6 +314,7 @@ a7131fed-27ef-4ede-b709-67a491d614f3,andean.apartments,available,19.99,83.99,hig
 678d0f67-9f52-4045-950b-183ae93da415,covalent.apartments,available,19.99,83.99,high,low,8,name.com,,,13/08/2026 04:03
 0756a258-a09d-45a5-9af2-5472c4df3248,actinoid.apartments,available,19.99,83.99,medium,low,8,name.com,,,
 6380c2e1-4ec9-4b4d-8d32-cfc63232555b,cosmos.apartments,available,45.74,45.74,high,medium,6,spaceship,,,28/09/2026 10:55
+08a1ccb5-b7b1-43b3-80f3-8da45ae5ef48,disillusioned.apartments,available,45.74,45.74,medium,low,13,spaceship,,,02/10/2026 07:38
 5663c18e-29f8-47f8-b88e-66c43a055970,foolhardy.apartments,available,19.99,83.99,medium,low,9,name.com,,,18/08/2026 10:28
 82da2ea6-9197-4457-8cdf-318f2c894658,cannon.apartments,available,60.98,72.98,high,low,6,namecheap,,,24/09/2026 12:05
 59ab392a-8128-4c64-b6a2-2688686d060c,restore.apartments,available,10.92,47.3,high,low,7,dynadot,,,28/09/2026 01:17
@@ -317,7 +332,7 @@ f923d70c-8edf-42d4-a29c-da490215abc0,oaken.apartments,available,57.99,57.99,medi
 1804e22b-439f-4c57-9310-d71fa5a26d80,calibrated.apartments,available,19.99,83.99,medium,low,10,name.com,,,11/08/2026 14:16
 593020c0-2b6c-496b-afe0-faabf0d4423d,nonfinite.apartments,available,60.98,72.98,medium,low,10,namecheap,,,03/09/2026 18:26
 f1bd535e-bd0e-4986-bca3-0b92537b2f36,bronzy.apartments,available,19.99,83.99,medium,low,6,name.com,,,11/08/2026 05:39
-0fcc0933-440c-452a-8519-ff69b3690848,technical.apartments,available,57.99,57.99,high,low,9,namesilo,,,28/09/2026 08:48
+0fcc0933-440c-452a-8519-ff69b3690848,technical.apartments,available,10.81,45.83,high,low,9,porkbun,,,02/10/2026 12:55
 312cdf7b-3a64-48ac-b336-03c685e461a7,barney.apartments,available,44.2,44.2,high,low,6,cloudflare,,,29/09/2026 21:21
 fff0aaec-5a91-4042-8ce8-ec384bc7b785,lot.apartments,premium,85.8,85.8,high,low,3,namecheap,,,25/09/2026 20:36
 9cb7560a-c340-4136-86e1-41b2e5c76c4e,mobius.apartments,available,57.99,57.99,high,low,6,namesilo,,,21/09/2026 03:47
@@ -328,6 +343,7 @@ fbbf9bf8-0068-4366-b175-48347ade5852,shorter.apartments,available,57.99,57.99,hi
 5e06c6b0-dc34-4b14-9e74-e738083cf0d5,hooper.apartments,available,45.74,45.74,medium,low,6,spaceship,,,29/09/2026 02:55
 87e7c10f-da51-4e66-8578-bb1f0645ac25,withheld.apartments,available,45.74,45.74,medium,low,8,spaceship,,,30/09/2026 22:34
 4b6d8651-3ac1-4075-a8e9-5003715ed0e4,containers.apartments,available,57.99,57.99,medium,low,10,namesilo,,,19/09/2026 01:32
+1fda3cda-831e-4de3-8a55-0f1fc5cb6fcf,newland.apartments,available,44.2,44.2,high,low,7,cloudflare,,,02/10/2026 21:10
 8eaf9b1a-cd5f-4641-8c6e-04e0b4822803,discarded.apartments,available,19.99,83.99,medium,low,9,name.com,,,11/08/2026 20:21
 de309478-bb10-42cf-ba22-247cbffc5ac7,youth.apartments,available,45.74,45.74,high,low,5,spaceship,,,29/09/2026 17:26
 4142d974-b4ec-46fe-a23f-9b81fd12951f,porkfish.apartments,available,57.99,57.99,medium,low,8,namesilo,,,19/09/2026 09:38
@@ -339,7 +355,7 @@ c939e51a-a619-4120-a8c9-06f5e2190611,alkalizer.apartments,available,19.99,83.99,
 42e0700e-0025-4a62-a937-2754dc94c5b9,sparkly.apartments,available,19.99,83.99,high,low,7,name.com,,,
 3c82c39d-59b2-4293-8bb8-990efeb9a255,disciples.apartments,available,44.2,44.2,medium,low,9,cloudflare,,,29/09/2026 16:57
 ec0f1de9-8a30-4f8c-b523-f75b1de3e9c7,striker.apartments,available,45.74,45.74,high,low,7,spaceship,,,29/09/2026 08:09
-7e6f51be-69b0-4544-bcfd-ae9086b64b46,movies.apartments,available,19.99,,high,low,6,name.com,,,
+7e6f51be-69b0-4544-bcfd-ae9086b64b46,movies.apartments,available,44.2,44.2,high,low,6,cloudflare,,,02/10/2026 21:58
 1955bee3-54b4-4bb9-bcf7-b5f9f99ac481,anxious.apartments,available,57.99,57.99,high,low,7,namesilo,,,27/09/2026 21:59
 81eac419-27ff-454e-bc05-b69fa9b337ef,aus.apartments,available,60.98,72.98,high,low,3,namecheap,,,27/09/2026 18:53
 eda98f29-5614-4958-a1c6-aa074296f118,tendencies.apartments,available,10.92,47.3,medium,low,10,dynadot,,,29/09/2026 17:02
@@ -358,8 +374,12 @@ dc5bbe8c-4c30-47fd-8b44-470f599de5f4,granada.apartments,premium,,,high,high,7,,,
 9120266c-f3d3-462b-b885-e241a168b359,yisrael.apartments,available,60.98,72.98,high,low,7,namecheap,,,01/10/2026 20:06
 377acb58-376d-4976-901b-322db89f913a,main.apartments,available,57.99,57.99,high,low,4,namesilo,,,23/09/2026 09:34
 d9b55e06-30b7-4a98-a72b-9537a9e9709e,aniseed.apartments,available,57.99,57.99,high,low,7,namesilo,,,19/09/2026 09:27
+40c11b5a-4a2f-48ba-bd6d-4b155cd94112,moat.apartments,available,45.74,45.74,high,low,4,spaceship,,,02/10/2026 04:56
 08ea4cf2-a1b2-4855-b6d7-1b028d899859,athene.apartments,available,60.98,72.98,high,low,6,namecheap,,,20/09/2026 20:37
 55cc9890-d32d-45d6-a239-bda2db314a83,monotonic.apartments,available,19.99,83.99,medium,low,9,name.com,,,25/08/2026 05:23
+1913e13c-fd14-4291-9c0c-217f99d06619,advocated.apartments,available,45.74,45.74,medium,low,9,spaceship,,,02/10/2026 21:39
+0d1e45ff-4e1b-4f99-98ea-46261c78b2c5,mineralized.apartments,available,57.99,57.99,medium,low,11,namesilo,,,03/10/2026 03:41
+161850ad-4cf5-4372-9610-e4ad49d156a6,patras.apartments,available,10.81,45.83,medium,low,6,porkbun,,,02/10/2026 16:21
 75bf58ea-48de-4cc2-a161-d57220f62697,chart.apartments,available,44.2,44.2,high,low,5,cloudflare,,,29/09/2026 08:17
 1b225531-1cb2-4a20-8908-8b2cf95cd559,bagpiper.apartments,available,60.98,72.98,medium,low,8,namecheap,,,21/09/2026 18:28
 a05e8a16-c6c6-4264-8cd9-5a5018bdd539,intervene.apartments,available,45.74,45.74,high,low,9,spaceship,,,29/09/2026 08:23
@@ -371,6 +391,7 @@ e3f8042c-8add-497e-acf3-22315bc60512,sainted.apartments,available,19.99,83.99,hi
 93a4a8cf-512f-4ff6-bf10-ed5aa14d8640,wylie.apartments,available,57.99,57.99,medium,low,5,namesilo,,,28/09/2026 13:59
 92af8d09-916d-4e99-a62f-a2b8f2d3ab52,bagdad.apartments,available,10.92,47.3,medium,low,6,dynadot,,,29/09/2026 00:26
 14b24ca8-06d8-4b08-bec4-91091d1257e5,bates.apartments,available,10.92,47.3,medium,low,5,dynadot,,,28/09/2026 12:13
+43b3fca2-b449-4e7c-9f64-5938f93178f3,cavities.apartments,available,57.99,57.99,medium,low,8,namesilo,,,02/10/2026 11:26
 f5a2f900-9015-45b1-8aeb-7ba4fc44162c,madeline.apartments,available,60.98,72.98,high,low,8,namecheap,,,29/09/2026 03:55
 6c9433ab-1ff9-40bd-b44b-0fcfc60d22b7,antigenic.apartments,available,19.99,83.99,medium,low,9,name.com,,,
 abbb9530-b1ea-4db7-a845-f5ad5492b6c8,papered.apartments,available,57.99,57.99,medium,low,7,namesilo,,,21/09/2026 10:14
@@ -400,11 +421,13 @@ f852b25d-5427-45cb-9b2f-445c18c3a843,braless.apartments,available,19.99,83.99,lo
 1d6cbd82-a4b2-40aa-96cc-208eb367fc21,irrigation.apartments,available,10.92,47.3,high,low,10,dynadot,,,29/09/2026 19:22
 5703b244-f2d1-4e9d-8fa8-2093fbc4a923,unclipped.apartments,available,57.99,57.99,medium,low,9,namesilo,,,12/09/2026 05:25
 e58cd7b4-3b63-4a27-9abf-4fa475121ddc,supine.apartments,available,57.99,57.99,high,low,6,namesilo,,,09/09/2026 15:27
+c34136f7-cb1c-4b46-9f0c-e6fee71c8c04,warranted.apartments,available,57.99,57.99,medium,low,9,namesilo,,,02/10/2026 12:11
 2f85405d-5c78-4f6e-bb84-560a0d78e928,upstate.apartments,available,57.99,57.99,high,low,7,namesilo,,,16/09/2026 10:25
 2c96267f-c6b2-4585-bfd8-48ce9892e6cf,regiment.apartments,available,10.81,45.83,high,low,8,porkbun,,,28/09/2026 20:17
 26b67b5c-5972-43b6-b2cb-3288bd162d92,intermission.apartments,available,57.99,57.99,high,low,12,namesilo,,,01/10/2026 22:19
 833362bf-a437-4329-bbc4-96a4512acb51,drafts.apartments,available,44.2,44.2,medium,low,6,cloudflare,,,01/10/2026 18:07
 a57dec2a-7ed4-402e-8652-dbd2a46a8044,ethan.apartments,available,57.99,57.99,high,low,5,namesilo,,,25/09/2026 13:30
+4cbc0cf4-54c0-41f5-8517-df0a7574793d,matlock.apartments,available,60.98,72.98,medium,low,7,namecheap,,,02/10/2026 10:27
 358494a6-d866-45d3-b930-752fe7290391,inutile.apartments,available,19.99,83.99,medium,low,7,name.com,,,22/08/2026 08:54
 47da0782-0bde-4bc9-89dd-dd7b1899f8d9,ixc.apartments,available,19.99,83.99,medium,low,3,name.com,,,
 ada052bf-03ec-48e4-bd3a-56fb0bf77c49,turpin.apartments,available,57.99,57.99,medium,low,6,namesilo,,,01/10/2026 01:44
@@ -415,6 +438,7 @@ d5c634f9-fa29-4c94-b42d-f0a7de05032e,hating.apartments,available,57.99,57.99,low
 ea92b0bc-d2b3-4cad-b071-23f3d967c40f,plus.apartments,available,57.99,57.99,high,medium,4,namesilo,,,27/09/2026 04:17
 bf84bd10-81fa-46ab-9ebe-7e8397e2ce40,repose.apartments,available,60.98,72.98,high,low,6,namecheap,,,20/09/2026 19:37
 029820bc-f392-4c79-9325-d25eff5cfd64,ovary.apartments,available,57.99,57.99,high,low,5,namesilo,,,01/10/2026 03:11
+b859539f-2e59-4059-9fb3-f3dffd76fa9a,houdini.apartments,available,45.74,45.74,high,low,7,spaceship,,,02/10/2026 15:02
 4b15349d-22d6-4e9d-b88d-088baea109e3,valuables.apartments,available,45.74,45.74,high,low,9,spaceship,,,30/09/2026 23:28
 eb1986d4-fea8-40d5-94de-3e5fdd01fe33,theoretically.apartments,available,57.99,57.99,low,low,13,namesilo,,,28/09/2026 17:35
 d21e56b8-1bdc-44d7-b6a2-f97b83f5f3e6,dispatch.apartments,available,57.99,57.99,high,low,8,namesilo,,,04/09/2026 00:56
@@ -449,8 +473,9 @@ eda5c32d-aae5-456d-ba40-edc71c30407c,hernandez.apartments,available,60.98,72.98,
 63c50c88-b54e-42bc-b9f5-d02f856d67c3,shi.apartments,available,45.74,45.74,high,low,3,spaceship,,,30/09/2026 11:58
 0cc3de37-bcb4-46c5-8cc3-d6dbaff847a5,sensory.apartments,available,10.81,45.83,high,low,7,porkbun,,,27/09/2026 20:08
 d7adf0a4-1b42-4ea6-96a1-e3feda3f290c,bruno.apartments,available,60.98,72.98,high,low,5,namecheap,,,25/09/2026 03:34
-29fb7442-96ac-4288-8497-99ddb1dff8f9,recommending.apartments,available,44.2,44.2,medium,low,12,cloudflare,,,30/09/2026 09:39
+29fb7442-96ac-4288-8497-99ddb1dff8f9,recommending.apartments,available,57.99,57.99,medium,low,12,namesilo,,,02/10/2026 15:55
 b5ac68e6-4fa0-4efa-9c4f-ff1aadb67865,hutt.apartments,available,60.98,72.98,medium,low,4,namecheap,,,29/09/2026 22:18
+69a9fa4b-cd01-4796-be0e-ac0010ee25cc,symposium.apartments,available,57.99,57.99,high,low,9,namesilo,,,02/10/2026 16:54
 aac66bfc-275e-4f25-bfce-c45df02b1589,kochia.apartments,available,57.99,57.99,medium,low,6,namesilo,,,22/09/2026 12:18
 fc987fcd-5606-4092-86c3-d243173517c4,hygienic.apartments,available,19.99,83.99,high,low,8,name.com,,,21/08/2026 16:27
 d4ad5b9c-9818-4a24-9781-d5dd34e5e52d,harmless.apartments,available,19.99,83.99,high,low,8,name.com,,,21/08/2026 01:02
@@ -458,10 +483,12 @@ d4ad5b9c-9818-4a24-9781-d5dd34e5e52d,harmless.apartments,available,19.99,83.99,h
 e983999f-d248-4f14-8104-695106414bab,ageing.apartments,available,60.98,72.98,high,low,6,namecheap,,,21/09/2026 22:43
 709234bc-22c3-40a4-b02c-de19bd1b291e,buckets.apartments,available,57.99,57.99,medium,low,7,namesilo,,,30/09/2026 15:47
 676f1e5b-80d0-4fa9-bddf-ca50afe2487e,unwonted.apartments,available,57.99,57.99,low,low,8,namesilo,,,12/09/2026 22:48
+b78612c7-1859-413d-bcf9-9647aa4eebf7,instructional.apartments,available,45.74,45.74,high,low,13,spaceship,,,03/10/2026 03:29
 c8d3fca5-4102-4068-b166-264c7a08df38,aborigine.apartments,available,19.99,83.99,high,low,9,name.com,,,
 2c4c081b-f486-41b7-9378-ef5221c8c3ea,acceptor.apartments,available,57.99,57.99,high,low,8,namesilo,,,16/09/2026 22:02
 814355c7-1ec7-4231-b0a0-c38a327743f2,alcidae.apartments,available,57.99,57.99,medium,low,7,namesilo,,,18/09/2026 04:02
 ecd292f1-06a5-49ab-8145-6ffc52d1872b,kurds.apartments,available,57.99,57.99,medium,low,5,namesilo,,,28/09/2026 05:10
+a78d2229-51c1-46f0-a073-922b53474f00,mallet.apartments,available,44.2,44.2,high,low,6,cloudflare,,,02/10/2026 05:43
 117d34a5-9a2c-47d4-8f85-bf2679fd764a,ends.apartments,available,57.99,57.99,high,low,4,namesilo,,,25/09/2026 13:13
 a08520a0-c53a-4c46-b80f-09ad4cbfd8af,besides.apartments,available,10.92,47.3,medium,low,7,dynadot,,,28/09/2026 11:58
 87d76ed9-6da6-4d4d-a410-f98d6ddd9554,tao.apartments,available,19.99,83.99,high,low,3,name.com,,,11/09/2026 08:13
@@ -470,6 +497,7 @@ ba38009c-da8e-4c1e-a649-a0d0c73594c6,fec.apartments,available,10.92,47.3,high,lo
 29269ad1-3d71-4754-ab97-6f8d826fc6ed,equipped.apartments,available,57.99,57.99,high,low,8,namesilo,,,24/09/2026 14:45
 6be33652-a22a-4998-b541-4166c71235e5,worrying.apartments,available,19.99,83.99,medium,low,8,name.com,,,14/08/2026 13:23
 1a20016c-7663-4351-8cfc-e428fa02694b,evening.apartments,available,57.99,57.99,high,low,7,namesilo,,,24/09/2026 15:27
+cbb70203-365e-4edc-b941-893b0492e471,stresses.apartments,available,57.99,57.99,low,low,8,namesilo,,,02/10/2026 22:47
 c1ec1dce-5394-44cf-b457-41096efc31be,extend.apartments,available,45.74,45.74,high,low,6,spaceship,,,30/09/2026 19:37
 c9b0b3b3-3c64-4260-a352-1c1ccbb50d95,pint.apartments,available,10.92,47.3,high,low,4,dynadot,,,29/09/2026 12:06
 76665cd5-4827-4fb3-9c07-ac87b8b325f4,fertility.apartments,available,60.98,72.98,high,low,9,namecheap,,,23/09/2026 21:05
@@ -491,6 +519,7 @@ a1e305ce-3031-4608-ad2a-9d9846f786c7,handsomely.apartments,available,57.99,57.99
 bcf5f103-ca42-4610-8f60-5bb81c7b3e0e,uncertain.apartments,available,19.99,83.99,high,low,9,name.com,,,22/08/2026 01:07
 f96dfce7-fb77-4237-85a1-391536e1daca,ambiguity.apartments,available,57.99,57.99,high,low,9,namesilo,,,18/09/2026 16:43
 65e6bec0-d416-4cac-8a86-60ff81a77896,archer.apartments,available,57.99,57.99,high,low,6,namesilo,,,20/09/2026 01:54
+3b6bc1e6-5792-47f2-bee6-e05c932c5f8e,vikram.apartments,available,10.92,47.3,medium,low,6,dynadot,,,02/10/2026 09:40
 edbd60ca-5433-4857-b952-939aa8a178ff,debonnaire.apartments,available,19.99,83.99,high,low,10,name.com,,,13/08/2026 20:46
 944f7cf5-9e41-4314-8190-7e13e7f5ef5d,undecided.apartments,available,57.99,57.99,high,low,9,namesilo,,,04/09/2026 14:20
 7b863ac3-a5dd-4a0a-a8bb-5a8b4b82e601,adulterous.apartments,available,19.99,83.99,medium,low,10,name.com,,,
@@ -500,6 +529,7 @@ edbd60ca-5433-4857-b952-939aa8a178ff,debonnaire.apartments,available,19.99,83.99
 be8daa78-1fc4-4818-abb9-da5fca4bd281,normandy.apartments,available,57.99,57.99,medium,low,8,namesilo,,,30/09/2026 05:51
 815fcb50-1c73-4b35-8f7e-6549c75df63b,excuses.apartments,available,57.99,57.99,medium,low,7,namesilo,,,28/09/2026 23:11
 5353d49a-92c0-4a2b-8d49-b76ae11ff01b,publicized.apartments,available,57.99,57.99,high,low,10,namesilo,,,27/09/2026 08:05
+876a118d-d4f9-46e4-82e9-7bd1876b85ca,burdett.apartments,available,57.99,57.99,medium,low,7,namesilo,,,02/10/2026 08:39
 337335e7-90d7-44bf-913e-ad094e27359c,bolshevik.apartments,available,19.99,83.99,high,low,9,name.com,,,10/08/2026 17:50
 b1b98485-2a86-4775-907d-7348257df6e1,hostelry.apartments,available,57.99,57.99,high,low,8,namesilo,,,21/09/2026 02:26
 06a5f3c8-30ac-4c3e-bdb6-e954e1c9db47,hmm.apartments,available,44.2,44.2,high,low,3,cloudflare,,,01/10/2026 04:54
@@ -509,6 +539,7 @@ f929cfea-e2e4-4456-a29f-f7fe3359e45a,towel.apartments,available,57.99,57.99,high
 4b38bfd7-e055-4018-b30a-d97b2449b1dc,diabetic.apartments,available,19.99,83.99,high,low,8,name.com,,,14/08/2026 05:36
 59ee10c1-32dc-43bf-b4dc-729ae233382e,icons.apartments,available,19.99,,high,low,5,name.com,,,
 914313f2-c748-43af-a6f8-007570fe9d53,does.apartments,available,19.99,,medium,low,4,name.com,,,
+f049b586-0bb7-4b33-b3e8-bf435c7e516f,isdn.apartments,available,45.74,45.74,high,low,4,spaceship,,,02/10/2026 17:17
 169c9138-9817-4477-9869-6f748ef8a243,diaper.apartments,available,57.99,57.99,high,low,6,namesilo,,,03/09/2026 13:09
 be37b020-537c-48f4-b03b-56c91cbad804,hilliard.apartments,available,57.99,57.99,medium,low,8,namesilo,,,30/09/2026 00:27
 cb3473e4-01f1-40a6-b2f9-297315003dc1,shane.apartments,available,60.98,72.98,high,low,5,namecheap,,,26/09/2026 03:35
@@ -545,11 +576,12 @@ d5250fd9-54c7-48b7-8859-0e06991a787f,routes.apartments,available,57.99,57.99,med
 ee7474bf-7885-4325-97ee-ffa183379fd9,resolutely.apartments,available,57.99,57.99,medium,low,10,namesilo,,,14/09/2026 11:12
 daa7a17e-a33c-400f-b38e-7490d1e3d2b2,controlling.apartments,available,45.74,45.74,high,low,11,spaceship,,,01/10/2026 20:03
 093c6fda-63d9-48fd-919a-20319a5422a7,transferred.apartments,available,45.74,45.74,medium,low,11,spaceship,,,27/09/2026 22:38
-89f982ca-526f-4548-a080-cd4af95e9267,emoji.apartments,available,19.99,,high,low,5,name.com,,,
+89f982ca-526f-4548-a080-cd4af95e9267,emoji.apartments,available,57.99,57.99,high,medium,5,namesilo,,,03/10/2026 02:08
 c2873e7a-fb8f-46c8-8ec7-d4914316af92,pushed.apartments,available,19.99,83.99,medium,low,6,name.com,,,25/09/2026 18:24
 763ca9a6-ff6b-4638-a87b-3a1ac296dcac,pas.apartments,available,57.99,57.99,high,low,3,namesilo,,,29/09/2026 01:49
 c42df5aa-dac2-41e8-a07e-f0e7514af7a9,basiliscus.apartments,available,60.98,72.98,medium,low,10,namecheap,,,22/09/2026 10:53
 11151fb6-3f74-4c32-8743-3dba6c3574f3,megabucks.apartments,available,57.99,57.99,high,low,9,namesilo,,,23/09/2026 14:11
+f8120237-a9ed-4143-b98c-178a45ea3c87,interlude.apartments,available,57.99,57.99,high,low,9,namesilo,,,03/10/2026 01:18
 f80b24e1-539a-4537-92df-f0836a887966,arithmancy.apartments,available,57.99,57.99,medium,low,10,namesilo,,,20/09/2026 06:00
 2dd68a0e-1d09-491f-860d-1d0bf335a68b,wendell.apartments,available,44.2,44.2,medium,low,7,cloudflare,,,27/09/2026 20:17
 11c6dad8-f881-4b95-95d9-1e0e79260b84,annotated.apartments,available,57.99,57.99,high,low,9,namesilo,,,02/10/2026 01:13
@@ -557,22 +589,23 @@ a883a75d-1034-4eec-84d0-5a496e7d99f9,wanton.apartments,available,19.99,83.99,med
 894b2af0-2499-423f-b2b9-7eee97fee438,limoges.apartments,available,57.99,57.99,medium,low,7,namesilo,,,02/10/2026 00:18
 e4ec3ef1-983f-4acf-8ea7-fce6ad475c9d,accounting.apartments,available,10.92,47.3,high,low,10,dynadot,,,01/10/2026 17:54
 f827c88f-f774-4808-bc1a-730e3c177766,pepin.apartments,available,57.99,57.99,high,low,5,namesilo,,,01/10/2026 03:18
-6abec401-d3e1-41ef-a962-bfd077b5db24,sony.apartments,available,,,high,medium,4,,,,
 0d471917-6baf-49e2-ae73-605a19bc41b9,alvine.apartments,available,19.99,83.99,medium,low,6,name.com,,,
 e880aa3d-d794-4c98-8906-09d4fcf82d18,weaned.apartments,available,57.99,57.99,medium,low,6,namesilo,,,13/09/2026 08:53
 544f8888-caa0-480f-83ef-bf36aa5c636c,tres.apartments,available,10.81,45.83,high,low,4,porkbun,,,01/10/2026 22:18
 0c6318fc-d7a0-4eb2-b44c-db27685c571e,benz.apartments,available,45.74,45.74,high,low,4,spaceship,,,29/09/2026 14:58
 87d96b0c-9877-45c1-a857-8130663885a2,equanimity.apartments,available,19.99,83.99,high,low,10,name.com,,,11/08/2026 14:58
 c588dab2-a9c6-4cd6-b98e-ea54897fb4a0,kamikaze.apartments,available,57.99,57.99,medium,low,8,namesilo,,,30/09/2026 01:08
-dabdcd70-6998-477b-a8ba-5066d96485b4,sales.apartments,resell,19.99,,high,medium,5,Dynadot Inc,07/03/2026 19:33,07/03/2027 19:33,28/09/2026 07:37
+dabdcd70-6998-477b-a8ba-5066d96485b4,sales.apartments,resell,19.99,,high,medium,5,Dynadot Inc,07/03/2026 19:33,07/03/2027 19:33,02/10/2026 10:49
 1641f2b0-ed9b-4a73-bd3b-d292b91d13e3,swearing.apartments,available,45.74,45.74,medium,low,8,spaceship,,,30/09/2026 01:12
 3df337fa-7a07-4834-bafc-7ba0adcbf542,liaoning.apartments,available,10.81,45.83,medium,low,8,porkbun,,,30/09/2026 13:11
 71e8559e-a942-44eb-89f6-034058c30e31,wayward.apartments,available,57.99,57.99,medium,low,7,namesilo,,,13/09/2026 08:49
+95bd2e4f-b042-46ad-9705-208292128dc1,greig.apartments,available,60.98,72.98,medium,low,5,namecheap,,,02/10/2026 20:02
 bff5cce4-28a2-49a5-8e96-1bba7d988b43,dignitary.apartments,available,45.74,45.74,high,low,9,spaceship,,,29/09/2026 14:54
 43318f8c-7494-419d-95db-b1a25bd7993b,avoid.apartments,available,57.99,57.99,high,low,5,namesilo,,,13/09/2026 06:44
 29a48413-3ebb-47fa-a5ed-91414df27981,interviewee.apartments,available,57.99,57.99,medium,low,11,namesilo,,,01/10/2026 06:07
 1d5ab544-1df5-4b48-b3ad-83303c76d47d,hushed.apartments,available,19.99,83.99,high,low,6,name.com,,,21/08/2026 15:54
 9f771a7d-857b-4caf-8e5f-70a8ad264afb,illusion.apartments,available,57.99,57.99,high,low,8,namesilo,,,24/09/2026 16:35
+9552e702-592e-45e1-9d6b-ba518b157c13,philharmonic.apartments,available,57.99,57.99,high,low,12,namesilo,,,03/10/2026 03:07
 ae046235-4b53-4306-9dcb-6eb02b879614,vertical.apartments,available,60.98,72.98,high,low,8,namecheap,,,24/09/2026 14:52
 287f49a5-4368-43f8-bba3-d5046eb2892e,willson.apartments,available,60.98,72.98,medium,low,7,namecheap,,,30/09/2026 05:22
 f33fd2ea-84bc-484d-b300-ef861ddbd561,cater.apartments,available,45.74,45.74,high,low,5,spaceship,,,01/10/2026 03:18
@@ -596,12 +629,13 @@ d94515ba-d162-4adf-b9a7-698a7f99fbde,hart.apartments,available,45.74,45.74,high,
 5226de3b-7f61-4fb5-aa46-857831992718,birthmark.apartments,available,60.98,72.98,high,low,9,namecheap,,,23/09/2026 21:13
 d3fa39d1-bc26-4258-9d0a-9ba12b177855,elderly.apartments,available,19.99,83.99,high,low,7,name.com,,,21/09/2026 22:30
 26f839c9-9ad3-43c1-9a3a-b325a5c9ceaa,apneic.apartments,available,19.99,83.99,medium,low,6,name.com,,,06/08/2026 00:40
+38728bf8-29ee-4dc6-9a58-53a20579361d,detrimental.apartments,available,44.2,44.2,medium,low,11,cloudflare,,,02/10/2026 17:33
 d97540b0-db4e-4ddd-93e6-eca5a433e799,carly.apartments,available,60.98,72.98,high,low,5,namecheap,,,29/09/2026 15:23
 39d00a79-9030-4090-8ed5-349ea52cce6b,ajuga.apartments,available,57.99,57.99,medium,low,5,namesilo,,,17/09/2026 23:42
 a90c67ed-d604-4894-a5e4-bac89054fa81,theft.apartments,available,57.99,57.99,high,low,5,namesilo,,,08/09/2026 07:55
 96de0ac1-ff76-4fb0-8265-8cf81a5baf7a,validate.apartments,available,57.99,57.99,high,low,8,namesilo,,,30/09/2026 11:29
 7d2ff147-13f1-4a63-9720-31b7766de37f,inflatable.apartments,available,19.99,83.99,high,low,10,name.com,,,22/08/2026 04:29
-fb4ed278-2706-4d81-b0ea-5e5e3bbacdf7,banked.apartments,available,19.99,,medium,low,6,name.com,,,
+fb4ed278-2706-4d81-b0ea-5e5e3bbacdf7,banked.apartments,available,60.98,72.98,medium,low,6,namecheap,,,02/10/2026 22:29
 2c407403-0e63-4967-941f-443092dd8c06,brac.apartments,available,45.74,45.74,medium,low,4,spaceship,,,01/10/2026 23:52
 dd9bc768-02e4-4b4c-86c2-7fdf026605f0,peeled.apartments,available,19.99,83.99,medium,low,6,name.com,,,08/08/2026 18:24
 fcc14cb5-65b9-42a3-af8d-52ec91378652,banquette.apartments,available,57.99,57.99,medium,low,9,namesilo,,,22/09/2026 03:08
@@ -626,6 +660,7 @@ a4c51e24-a778-4a75-aeeb-e2950ce56d23,mantled.apartments,available,19.99,83.99,me
 17359c3c-448d-4d89-895e-e26f994662e2,badmouth.apartments,available,19.99,83.99,medium,low,8,name.com,,,24/08/2026 14:04
 635e21e4-2bb2-4727-9ffa-ab66455ea1ef,taipei.apartments,available,10.92,47.3,high,low,6,dynadot,,,29/09/2026 07:03
 5e34a754-547e-45fe-baf9-86abb0109787,fiscally.apartments,available,57.99,57.99,medium,low,8,namesilo,,,14/09/2026 18:37
+131dee44-6a68-47f5-b58b-949b64026d3d,longus.apartments,available,57.99,57.99,medium,low,6,namesilo,,,02/10/2026 22:17
 3b839fa5-515c-4664-b462-ae49881d33d8,paranormal.apartments,available,19.99,83.99,high,low,10,name.com,,,17/08/2026 19:25
 55f58d78-ae35-46c1-ab1a-c31f01ceda7b,crisply.apartments,available,57.99,57.99,medium,low,7,namesilo,,,14/09/2026 09:37
 d58922a2-e436-4078-a125-bba541dd1bb8,onset.apartments,available,57.99,57.99,high,low,5,namesilo,,,04/09/2026 14:29
@@ -633,20 +668,24 @@ d58922a2-e436-4078-a125-bba541dd1bb8,onset.apartments,available,57.99,57.99,high
 61dd9c51-ab83-4a9d-b7e9-a1e985cf6609,layperson.apartments,available,57.99,57.99,medium,low,9,namesilo,,,10/09/2026 01:26
 5b9fa60d-cf56-4853-8f26-036e49aa8715,gunpowder.apartments,available,45.74,45.74,high,low,9,spaceship,,,29/09/2026 12:59
 0650bf44-f331-4477-8853-c03e126d7661,changeable.apartments,available,19.99,83.99,medium,low,10,name.com,,,12/08/2026 01:51
-4687b55c-187e-4610-836f-0b8b3f55c402,fame.apartments,available,57.99,57.99,high,low,4,namesilo,,,28/09/2026 07:34
+4687b55c-187e-4610-836f-0b8b3f55c402,fame.apartments,available,60.98,72.98,high,low,4,namecheap,,,02/10/2026 10:31
+2b1039de-c018-4c34-b4c1-55fd68a10b3e,zucker.apartments,available,10.92,47.3,high,low,6,dynadot,,,02/10/2026 17:19
 c4dacf35-80a1-4808-81b6-5387bfc1208d,lined.apartments,available,19.99,83.99,medium,low,5,name.com,,,23/08/2026 14:17
 81df0cbb-6e62-447a-aeae-e8829a7a39a0,vicenza.apartments,available,44.2,44.2,medium,low,7,cloudflare,,,01/10/2026 07:48
 36fb703c-9bd9-4c0e-adb7-5b39cc9cdcde,nabokov.apartments,available,44.2,44.2,medium,low,7,cloudflare,,,01/10/2026 21:08
 6d0edd3d-d9e4-4844-8529-1819ad70859e,excluding.apartments,available,45.74,45.74,medium,low,9,spaceship,,,30/09/2026 03:59
 616622dd-6787-418a-a0b4-08f553321894,barra.apartments,available,45.74,45.74,medium,low,5,spaceship,,,30/09/2026 19:26
+1e06eb2b-5832-4078-937e-774cd24878fc,addie.apartments,available,57.99,57.99,high,low,5,namesilo,,,02/10/2026 11:53
 c3a25200-94ea-4ed2-a520-30ca2c2fc1c6,hoar.apartments,available,19.99,83.99,medium,low,4,name.com,,,20/08/2026 19:18
 f810de0f-9dae-4b7c-827f-0e877c89a755,upgraded.apartments,available,10.92,47.3,high,low,8,dynadot,,,30/09/2026 16:15
 adcf6045-e3a6-469f-bf0a-3bcba85ee2f0,galactic.apartments,available,19.99,83.99,high,low,8,name.com,,,18/08/2026 19:35
 674ca22c-f574-41cf-bfc5-6209959a5d04,determinant.apartments,available,10.92,47.3,high,low,11,dynadot,,,30/09/2026 19:21
 b583ef2b-4501-48b9-9b37-1fbd7ff8ed5e,natchez.apartments,available,57.99,57.99,medium,low,7,namesilo,,,28/09/2026 14:57
 76cc4d80-32c8-4547-8499-69868f3f6ab6,tray.apartments,available,45.74,45.74,high,low,4,spaceship,,,02/10/2026 01:23
+ff4c0ffe-b3c5-4404-91e0-5224f73c5497,southwell.apartments,available,45.74,45.74,medium,low,9,spaceship,,,02/10/2026 10:29
 05c2622d-e2b3-4db5-b8cd-68043189c082,shaping.apartments,available,57.99,57.99,high,low,7,namesilo,,,10/09/2026 05:59
 6e457709-5f1e-4a61-9005-a523123f8ea7,gyral.apartments,available,19.99,83.99,medium,low,5,name.com,,,20/08/2026 21:19
+d2aed776-1980-42e4-a081-f0b6cddc447b,forestry.apartments,available,57.99,57.99,high,low,8,namesilo,,,03/10/2026 00:51
 c477bc01-bbc0-4da7-a3ea-9343492498d7,luckily.apartments,available,60.98,72.98,high,low,7,namecheap,,,13/09/2026 21:22
 64f2055b-e45b-4022-8de9-e1a3c44c8011,scummy.apartments,available,19.99,83.99,medium,low,6,name.com,,,
 e1e8cd8f-639f-4f37-b47b-e2d026ba78ba,mirthful.apartments,available,19.99,83.99,high,low,8,name.com,,,12/08/2026 19:00
@@ -654,12 +693,14 @@ e1e8cd8f-639f-4f37-b47b-e2d026ba78ba,mirthful.apartments,available,19.99,83.99,h
 3c32cc8c-c140-477b-a021-4b48942ba95e,pastry.apartments,available,57.99,57.99,high,low,6,namesilo,,,29/09/2026 13:40
 f7d84070-28a2-4d48-afb3-2873d0478416,balfour.apartments,available,57.99,57.99,high,low,7,namesilo,,,16/09/2026 12:19
 02ba1cc3-f50d-4b65-bdac-05864c4b4076,spattered.apartments,available,19.99,83.99,medium,low,9,name.com,,,13/08/2026 15:15
+b6835add-fb13-48a9-8997-3b162417200f,majid.apartments,available,45.74,45.74,medium,low,5,spaceship,,,02/10/2026 18:54
 fb11f38d-d277-444c-ae40-c0b869f74033,barometric.apartments,available,19.99,83.99,medium,low,10,name.com,,,08/08/2026 20:06
 a5656c0c-a453-4e4a-a142-df2060be48f0,holey.apartments,available,19.99,83.99,medium,low,5,name.com,,,21/08/2026 10:23
 8f377859-4b14-4035-9bbe-7b39495f2f08,charitably.apartments,available,57.99,57.99,medium,low,10,namesilo,,,14/09/2026 06:19
 4b5b8d8f-f790-4dc9-9836-3414675e1e37,visualise.apartments,available,57.99,57.99,high,low,9,namesilo,,,24/09/2026 16:40
 39e02dce-42e3-4efd-abe4-fcee52516a10,alternator.apartments,available,57.99,57.99,medium,low,10,namesilo,,,18/09/2026 14:48
 b4418c1d-765a-4121-b10c-1652df4c3bac,slides.apartments,available,10.81,45.83,medium,low,6,porkbun,,,29/09/2026 05:46
+b191b376-e272-492a-b269-282d17c9ca8b,pnl.apartments,available,10.81,45.83,high,low,3,porkbun,,,02/10/2026 07:42
 a853cfa7-5fa7-45d7-98b6-60512ba30222,thinner.apartments,available,45.74,45.74,high,low,7,spaceship,,,29/09/2026 06:40
 52aaba02-8187-451c-9b4c-ceb09259647c,dazed.apartments,available,19.99,83.99,medium,low,5,name.com,,,13/08/2026 18:53
 c83239c5-0c82-45f1-bf16-fd9b1d61fd4d,lynda.apartments,available,45.74,45.74,high,low,5,spaceship,,,30/09/2026 21:11
@@ -672,6 +713,9 @@ c83239c5-0c82-45f1-bf16-fd9b1d61fd4d,lynda.apartments,available,45.74,45.74,high
 16502fa8-2226-419b-87da-7eca55f784cb,pavel.apartments,available,57.99,57.99,medium,low,5,namesilo,,,28/09/2026 12:06
 1fa3cbd8-e80f-449f-8099-c2a87ac220cd,stacks.apartments,available,19.99,83.99,high,medium,6,name.com,,,14/09/2026 23:24
 54f9abfa-0357-4ec2-b542-fd908091d338,minacious.apartments,available,19.99,83.99,low,low,9,name.com,,,24/08/2026 19:57
+5006b38b-603b-4948-8171-b17edd3a6027,manufactures.apartments,available,45.74,45.74,medium,low,12,spaceship,,,02/10/2026 22:40
+0ce39378-4fdc-4748-a1b1-e95027eb5632,fluttering.apartments,available,57.99,57.99,medium,low,10,namesilo,,,03/10/2026 00:47
+dc23b8c6-e349-4fb1-9fe8-2e8866391a53,filtered.apartments,available,44.2,44.2,high,low,8,cloudflare,,,02/10/2026 18:14
 02851faa-1e2e-4cb1-bd2e-51c4fc0ed9c6,samson.apartments,available,45.74,45.74,high,low,6,spaceship,,,28/09/2026 01:08
 9848c1bf-d52a-4f24-a073-ee978d1f2b2d,armoire.apartments,available,57.99,57.99,high,low,7,namesilo,,,20/09/2026 07:20
 2127a79a-4895-478d-a0af-722e596ec71e,cancerous.apartments,available,19.99,83.99,medium,low,9,name.com,,,11/08/2026 16:33
@@ -680,6 +724,7 @@ a9de66bc-f027-42bc-bef4-663de0d5d3ca,whale.apartments,available,10.81,45.83,high
 79bf6d3d-4b77-4322-a32e-4b16d0237a1a,dowding.apartments,available,19.99,83.99,medium,low,7,name.com,,,14/08/2026 17:10
 6f195988-24bb-4235-a0f8-928514ba1f6c,fires.apartments,available,57.99,57.99,medium,low,5,namesilo,,,18/09/2026 04:40
 27b9ed62-6ea0-48d3-aa10-762431ceda97,lettres.apartments,available,57.99,57.99,medium,low,7,namesilo,,,29/09/2026 05:30
+e8cf804c-1054-468c-bde3-52fd57103606,quarrying.apartments,available,57.99,57.99,high,low,9,namesilo,,,02/10/2026 06:09
 149b0f70-b22d-4b7c-81d9-67ac28398a56,cordless.apartments,available,19.99,83.99,high,low,8,name.com,,,13/08/2026 01:04
 0d58e82a-2222-419f-ace3-0ff60ed288da,chary.apartments,available,19.99,83.99,medium,low,5,name.com,,,12/08/2026 02:59
 7305a12c-5437-4801-8c17-b8625ca829e0,dull.apartments,available,57.99,57.99,high,low,4,namesilo,,,23/09/2026 00:25
@@ -757,9 +802,12 @@ c92bd0ea-a893-421b-88d2-93e4b1656545,evenfall.apartments,available,57.99,57.99,m
 88c1ad53-350f-451a-a0ee-74e9b88bb396,bags.apartments,available,10.81,45.83,high,low,4,porkbun,,,01/10/2026 18:24
 d8b04163-3d9d-4c81-a19b-83f121b6c012,medal.apartments,available,45.74,45.74,high,low,5,spaceship,,,30/09/2026 02:12
 0a31edcb-6b2f-4709-9921-bc4728122894,sportsperson.apartments,available,57.99,57.99,high,low,12,namesilo,,,16/09/2026 08:58
+e02e7215-3edb-4ae8-b760-8023bb58b104,dundalk.apartments,available,60.98,72.98,medium,low,7,namecheap,,,02/10/2026 20:51
 39618ac6-bf80-4f2c-9a66-9c9918c8aba6,fbi.apartments,available,57.99,57.99,high,low,3,namesilo,,,29/09/2026 06:52
 0eca22cf-7494-4e04-aeac-3f51b8b85bbf,amphibia.apartments,available,57.99,57.99,high,low,8,namesilo,,,18/09/2026 23:11
+9db865c6-a1b7-4b69-b929-ae374b1f8918,egmont.apartments,available,44.2,44.2,medium,low,6,cloudflare,,,02/10/2026 10:11
 84f676c9-71a6-4662-8632-2a1dd675147d,alexanders.apartments,available,57.99,57.99,medium,low,10,namesilo,,,18/09/2026 05:47
+bf20462a-b194-4fdd-9c0a-679b965c15ae,horsham.apartments,available,45.74,45.74,medium,low,7,spaceship,,,02/10/2026 10:26
 e9a2df83-a2fe-4d1b-9558-f161beebc453,bahaism.apartments,available,60.98,72.98,medium,low,7,namecheap,,,21/09/2026 18:33
 f80b69b3-1e50-47bc-b20c-4b194fe05067,disputes.apartments,available,57.99,57.99,medium,low,8,namesilo,,,01/10/2026 17:25
 16a13609-f25a-4a43-ba7c-bc83b071fdf8,tattoo.apartments,available,57.99,57.99,high,low,6,namesilo,,,27/09/2026 05:36
@@ -785,6 +833,7 @@ d442a9ef-2c7a-426e-877b-cfa8af394fdc,ipo.apartments,available,60.98,72.98,high,l
 852d066b-1f10-4e36-9553-6bdbd782f20f,middlesex.apartments,available,57.99,57.99,medium,low,9,namesilo,,,25/09/2026 13:32
 abf9ed25-6818-4f13-b6ed-6b788a8c6623,uncontrollable.apartments,available,19.99,,medium,low,14,name.com,,,
 aacffde1-a286-4415-8cdb-a141af1ea51b,weekend.apartments,available,45.74,45.74,medium,low,7,spaceship,,,29/09/2026 15:56
+fd640fff-0970-40b8-bc75-1a0fc87aa075,shikoku.apartments,available,60.98,72.98,high,low,7,namecheap,,,03/10/2026 02:05
 e3ca261f-3e78-4507-944c-04f6b0eba583,monstrous.apartments,available,19.99,83.99,medium,low,9,name.com,,,07/08/2026 14:47
 4aef7d71-3dbc-43ca-ad39-ad99cbd6f343,noi.apartments,available,60.98,72.98,high,low,3,namecheap,,,29/09/2026 21:37
 b4fc0ab0-d18b-4ce5-867b-4b96c8aa665b,phial.apartments,available,57.99,57.99,medium,low,5,namesilo,,,18/09/2026 23:47
@@ -795,23 +844,25 @@ b5965fe6-e45e-4f57-93cd-3400db1d7bd7,assagai.apartments,available,57.99,57.99,me
 49107aca-45c1-4e9b-bc89-208fefc6561c,bromic.apartments,available,19.99,83.99,medium,low,6,name.com,,,11/08/2026 05:32
 83c56f34-c13c-4f6a-aeb7-0e7ef269f32a,nigh.apartments,available,19.99,83.99,high,low,4,name.com,,,12/08/2026 12:04
 73055c7b-a074-47af-babb-ae5450511a4a,ingredients.apartments,available,19.99,,medium,low,11,name.com,,,
+d3b21165-1e70-4a67-a787-9ab39f574071,hindus.apartments,available,57.99,57.99,medium,low,6,namesilo,,,02/10/2026 23:10
 db0f41b4-9c96-41f0-8554-a541a6725701,lxxxvi.apartments,available,19.99,83.99,medium,low,6,name.com,,,
 285d8223-a532-497b-89cc-6861d9c0e533,wastes.apartments,available,57.99,57.99,medium,low,6,namesilo,,,17/09/2026 07:45
 17495f17-0286-436b-b1b8-d2fcda444147,lesions.apartments,available,45.74,45.74,low,low,7,spaceship,,,30/09/2026 07:01
 3d6c898e-437f-4a18-af17-710f043ebcaa,insufficient.apartments,available,60.98,72.98,medium,low,12,namecheap,,,01/10/2026 04:49
 fbdccde1-d533-44ae-b132-00dbc5b6d7a5,pussy.apartments,available,57.99,57.99,high,medium,5,namesilo,,,27/09/2026 08:37
+1bd9a9bd-32c7-40ef-b1ee-4c63186e12da,sss.apartments,available,10.92,47.3,high,low,3,dynadot,,,02/10/2026 06:22
 0da0af72-54d7-4ad7-acdb-f505defdc6b8,honestly.apartments,available,19.99,83.99,high,low,8,name.com,,,
 570e80ea-86de-4dd6-9088-a315724f25e2,ire.apartments,available,57.99,57.99,medium,low,3,namesilo,,,19/09/2026 06:05
 b4669031-b806-4034-82aa-394efaa31207,julia.apartments,available,60.98,72.98,high,low,5,namecheap,,,25/09/2026 19:23
 3deab869-1f07-4129-91ff-079a6913f33f,cordova.apartments,available,57.99,57.99,high,low,7,namesilo,,,29/09/2026 11:58
 f341c940-cc82-447e-9e5f-ed97b38f3175,uncurbed.apartments,available,57.99,57.99,medium,low,8,namesilo,,,12/09/2026 04:34
 a2b6b3e1-2b70-4b0b-8e51-079cd234cd84,lawless.apartments,available,19.99,83.99,medium,low,7,name.com,,,
-c2974dc6-16d5-4614-8fab-1760d81b6c08,nicole.apartments,available,19.99,,high,low,6,name.com,,,
+c2974dc6-16d5-4614-8fab-1760d81b6c08,nicole.apartments,available,45.74,45.74,high,low,6,spaceship,,,02/10/2026 09:40
 0ee68a69-a332-4e27-ab1b-30743e98180d,midautumn.apartments,available,57.99,57.99,high,low,9,namesilo,,,17/09/2026 10:02
 ee7e0a2b-c05b-427b-8f92-a42c050259d6,easygoing.apartments,available,19.99,83.99,high,low,9,name.com,,,13/08/2026 12:00
 f5638c1b-b4cb-4eeb-82f5-8c8b5aaaaef0,tim.apartments,available,60.98,72.98,high,medium,3,namecheap,,,25/09/2026 11:26
 015fddfa-e94b-4ead-808e-e25bfe80b718,delilah.apartments,available,45.74,45.74,high,low,7,spaceship,,,01/10/2026 19:14
-ae713d97-8300-4aa3-a7ee-cc9cc8e83f9b,died.apartments,available,19.99,,low,low,4,name.com,,,
+ae713d97-8300-4aa3-a7ee-cc9cc8e83f9b,died.apartments,available,10.92,47.3,low,low,4,dynadot,,,03/10/2026 01:51
 8630c4fe-89e1-4e24-bb7e-97f6320015d8,bundles.apartments,available,44.2,44.2,medium,low,7,cloudflare,,,01/10/2026 18:17
 41d106c0-4f7b-4f52-9138-b1729953e1f0,puri.apartments,available,45.74,45.74,high,low,4,spaceship,,,30/09/2026 11:54
 d0516861-bc7c-4287-b1a2-5148646bd558,tellurian.apartments,available,57.99,57.99,medium,low,9,namesilo,,,11/09/2026 10:37
@@ -845,6 +896,7 @@ b5467e8d-eea2-4b8e-b8f4-6ce74b8c7bf1,ams.apartments,available,57.99,57.99,high,l
 2a504256-c96f-4be9-b9d9-a31b3386cd35,scotchtape.apartments,available,57.99,57.99,high,low,11,namesilo,,,16/09/2026 11:38
 aeff9295-1fd2-4006-b722-303692b63faf,memorable.apartments,available,60.98,72.98,high,low,9,namecheap,,,25/09/2026 19:29
 ba5ca0a6-11e7-4450-b763-b81a88dc50fd,ronnie.apartments,available,57.99,57.99,high,low,6,namesilo,,,27/09/2026 07:42
+3c7c611a-533b-4ce5-81c3-8a433934150f,bcl.apartments,available,57.99,57.99,high,low,3,namesilo,,,03/10/2026 03:57
 8484f3b3-6810-482c-b269-0a8426811f1c,refinery.apartments,available,57.99,57.99,high,low,8,namesilo,,,30/09/2026 02:41
 db3844ef-71ab-408e-9e18-074f8869b31e,unbalanced.apartments,available,19.99,83.99,medium,low,10,name.com,,,11/08/2026 01:50
 cf46a5e7-fb19-49ff-aa1f-2fc3753dae09,cousin.apartments,available,60.98,72.98,high,low,6,namecheap,,,24/09/2026 18:49
@@ -854,6 +906,7 @@ cb8107a2-0040-4217-9bdb-92adc9ea370b,copperhead.apartments,available,60.98,72.98
 91d5998c-1a2e-41a9-8d60-cbee57404f77,objected.apartments,available,57.99,57.99,medium,low,8,namesilo,,,18/09/2026 23:50
 ca0b2e39-bf25-47bd-9ad9-6a43757e280b,rosie.apartments,available,57.99,57.99,high,low,5,namesilo,,,27/09/2026 19:47
 86de9a44-1cee-4886-8136-71d992139c2d,scrambling.apartments,available,57.99,57.99,medium,low,10,namesilo,,,01/10/2026 23:12
+0d9c68f5-95ed-4991-bbdb-05394008e5ab,vichy.apartments,available,57.99,57.99,high,low,5,namesilo,,,02/10/2026 17:07
 5767eb70-311b-4417-ac17-e61b2d3316c6,russet.apartments,available,60.98,72.98,high,low,6,namecheap,,,09/09/2026 20:06
 b582a978-e352-46a0-86d8-f55a43dae6cd,trucks.apartments,available,45.74,45.74,medium,low,6,spaceship,,,29/09/2026 08:57
 43c38e30-9520-402f-8522-3088bc6cd303,jewelry.apartments,available,10.81,45.83,high,low,7,porkbun,,,30/09/2026 00:51
@@ -865,6 +918,7 @@ dd1c2fe1-cf4a-4ffb-8541-47e290e740a4,acarus.apartments,available,60.98,72.98,med
 651fa1e5-b976-4fee-a2ca-de5349ccd77a,minatory.apartments,available,19.99,83.99,low,low,8,name.com,,,24/08/2026 19:58
 93debbf2-f8d0-4b1a-a35f-92d509f97699,tubby.apartments,available,57.99,57.99,medium,low,5,namesilo,,,08/09/2026 22:29
 f3d31712-05fd-4518-90a3-81929ffff667,squeezing.apartments,available,60.98,72.98,high,low,9,namecheap,,,30/09/2026 18:49
+fc626394-785e-4159-bc17-c4b613d2ddaf,registrar.apartments,available,57.99,57.99,high,low,9,namesilo,,,02/10/2026 06:12
 66934d22-511a-4999-bc5d-a9e672c1e896,vat.apartments,available,57.99,57.99,high,low,3,namesilo,,,17/09/2026 05:53
 935c6014-f690-417b-a6f7-36a18c85bdb1,connectors.apartments,available,57.99,57.99,medium,low,10,namesilo,,,28/09/2026 05:16
 4ce26778-1d2e-4054-ae4e-2bedaead30ca,dill.apartments,available,57.99,57.99,high,low,4,namesilo,,,19/09/2026 05:36
@@ -894,6 +948,7 @@ cce1d63a-7a22-4d1e-ba5b-ac628b04397b,dempsey.apartments,available,45.74,45.74,hi
 de1b61de-5b1d-41b2-a44b-f348578bf8e3,discus.apartments,available,57.99,57.99,high,low,6,namesilo,,,24/09/2026 22:35
 a7cbec69-6f9f-4b7d-91da-0c0a30643083,biface.apartments,available,19.99,83.99,medium,low,6,name.com,,,09/08/2026 19:55
 3e940111-3b06-4227-80ec-bf1d054a8770,calculous.apartments,available,19.99,83.99,medium,low,9,name.com,,,11/08/2026 14:05
+156ea72a-038e-49d9-904e-ec8d130d03f8,starling.apartments,available,45.74,45.74,high,low,8,spaceship,,,02/10/2026 16:51
 d3e0e2e1-fffe-45ec-8ef7-cbc88c2c6cfc,price.apartments,available,57.99,57.99,high,medium,5,namesilo,,,30/09/2026 02:50
 e6d42586-b360-44fd-ac04-afd09d646d91,expressive.apartments,available,19.99,83.99,high,low,10,name.com,,,17/08/2026 18:50
 65ed9b37-14df-464b-815a-177fcd011213,drycleaning.apartments,available,57.99,57.99,high,low,11,namesilo,,,21/09/2026 04:39
@@ -902,12 +957,13 @@ f970f0fa-1283-4e07-bb76-f91ba0dc8311,mothers.apartments,available,60.98,72.98,hi
 7547e39a-4264-4ffb-9a33-e6721df7a235,praiseful.apartments,available,19.99,83.99,medium,low,9,name.com,,,22/08/2026 20:51
 749a6420-360c-4d40-b99b-0330ce4273b7,autogenic.apartments,available,19.99,83.99,medium,low,9,name.com,,,07/08/2026 20:21
 628cf2be-827a-427e-9a49-4c56455596da,ironically.apartments,available,57.99,57.99,medium,low,10,namesilo,,,15/09/2026 09:24
-4088d55b-2768-43da-8607-531e0dffddf8,friends.apartments,available,57.99,57.99,high,medium,7,namesilo,,,25/09/2026 10:22
+4088d55b-2768-43da-8607-531e0dffddf8,friends.apartments,available,57.99,57.99,high,medium,7,namesilo,,,02/10/2026 09:09
 9da939b4-9f54-4e0d-87e0-e0640ff59b15,rai.apartments,available,57.99,57.99,high,low,3,namesilo,,,28/09/2026 04:12
 da5c0966-2886-41d3-96a9-8de091067736,travels.apartments,available,60.98,72.98,high,low,7,namecheap,,,17/09/2026 06:44
 2c17b25f-cc6f-4b0b-a29b-beb23a920771,uncut.apartments,available,57.99,57.99,high,low,5,namesilo,,,12/09/2026 06:52
 0ba95381-db08-45a3-abb4-506b757f1608,percussive.apartments,available,57.99,57.99,high,low,10,namesilo,,,08/09/2026 16:22
-02f6cece-6e0c-4c4e-a3bd-086fd487fb87,whereabouts.apartments,available,19.99,,high,low,11,name.com,,,
+fff6dfe8-af95-41ad-b3fa-8cf2eb3bda4f,majorca.apartments,premium,72.6,72.6,medium,low,7,dynadot,,,03/10/2026 01:32
+02f6cece-6e0c-4c4e-a3bd-086fd487fb87,whereabouts.apartments,available,44.2,44.2,high,low,11,cloudflare,,,02/10/2026 17:16
 9fc20f96-8847-4d0e-a7a0-3b351e48cd73,impulses.apartments,available,57.99,57.99,medium,low,8,namesilo,,,30/09/2026 14:13
 6756cc9f-54dd-43ca-94ae-6da4baf8ce0c,authorized.apartments,available,57.99,57.99,high,low,10,namesilo,,,22/09/2026 13:48
 0734e751-920d-456e-995a-371765b4f57f,mushrooms.apartments,available,60.98,72.98,medium,low,9,namecheap,,,29/09/2026 11:10
@@ -933,6 +989,7 @@ e134ad2c-fa27-46c8-bf91-89a456702963,times.apartments,available,45.74,45.74,high
 4c12fd73-e7ef-4a5b-b8cd-b6f96a4c3762,loafer.apartments,available,19.99,83.99,medium,low,6,name.com,,,14/08/2026 14:12
 43785018-e84d-4f83-9eb0-6113f85dfddd,alphabetical.apartments,available,45.74,45.74,high,low,12,spaceship,,,30/09/2026 14:07
 3760e196-3e41-458e-925b-bcf2f59b7030,dictation.apartments,available,57.99,57.99,high,low,9,namesilo,,,23/09/2026 13:35
+c9b9af03-e482-4128-ae93-b10303450a5f,headlight.apartments,available,10.92,47.3,high,low,9,dynadot,,,03/10/2026 01:11
 a54111db-516a-444c-87ab-24442bc02a8f,wildcat.apartments,available,19.99,83.99,high,low,7,name.com,,,11/08/2026 07:09
 fe99428b-f56d-44ff-b8f9-0da0f572d7f6,kenyan.apartments,available,19.99,83.99,high,low,6,name.com,,,22/08/2026 15:34
 91508701-c3b6-487c-bb36-b451b12f13c9,columella.apartments,available,57.99,57.99,medium,low,9,namesilo,,,30/09/2026 09:13
@@ -942,60 +999,3 @@ a0eba1f5-1b6b-4501-9f3b-67a9757cadaa,cloud.apartments,available,45.74,45.74,high
 c780e820-7a99-4154-91d7-129bba052be8,hoggish.apartments,available,19.99,83.99,low,low,7,name.com,,,21/08/2026 10:16
 da73882e-913d-4f40-95a1-4789c43765e7,haryana.apartments,available,57.99,57.99,medium,low,7,namesilo,,,30/09/2026 12:51
 bbbe1ba1-8fef-4693-8d34-c62a9b2610fd,perturbed.apartments,available,19.99,83.99,medium,low,9,name.com,,,18/08/2026 09:31
-7701ca27-ba0e-4515-b830-653fb5fa10bb,chances.apartments,available,57.99,57.99,medium,low,7,namesilo,,,25/09/2026 16:56
-7b385b63-29e3-49f1-968f-1ee7322810a1,deformed.apartments,available,19.99,83.99,medium,low,8,name.com,,,13/08/2026 23:37
-579f39d2-f6c7-4130-9ede-4cdb0568de67,club.apartments,premium,128.7,128.7,high,medium,4,namecheap,,,29/09/2026 00:44
-ca1a69b3-c9a3-42ab-8601-6123139199fd,clone.apartments,available,57.99,57.99,high,low,5,namesilo,,,24/09/2026 15:51
-d028a643-8f4e-4fdc-bf99-fb89c5e27e77,agathis.apartments,available,57.99,57.99,medium,low,7,namesilo,,,17/09/2026 16:31
-161dd1e0-8a03-4693-9f6f-b16b93a55ad5,dazzlingly.apartments,available,57.99,57.99,medium,low,10,namesilo,,,14/09/2026 10:58
-a7962133-c894-4e2d-855f-b63eceb0d7d7,snidely.apartments,available,57.99,57.99,low,low,7,namesilo,,,16/09/2026 03:18
-869169f1-5c7d-4375-bc9c-055c6562c215,keaton.apartments,available,57.99,57.99,medium,low,6,namesilo,,,30/09/2026 00:55
-7c3cd285-fea8-4631-a11e-f8c3d270786b,payroll.apartments,available,45.74,45.74,high,low,7,spaceship,,,28/09/2026 10:41
-47166664-d36f-4aaa-aa78-16485a1806e5,dialectal.apartments,available,19.99,83.99,medium,low,9,name.com,,,14/08/2026 05:48
-d3b87dd0-827c-42c7-89c9-8a8e75646f49,gloss.apartments,available,57.99,57.99,high,low,5,namesilo,,,08/09/2026 22:58
-7ec7a8c4-ac98-4277-b3a7-4d32610bb197,antimatter.apartments,available,60.98,72.98,high,low,10,namecheap,,,19/09/2026 14:40
-88b91fa8-1180-4c14-94af-cb41f6489a81,beggar.apartments,available,60.98,72.98,medium,low,6,namecheap,,,23/09/2026 02:08
-22637efe-55dd-4e28-a2ea-35d5449bd3e6,geography.apartments,available,60.98,72.98,high,low,9,namecheap,,,28/09/2026 19:20
-d950fe37-4e57-40ef-8246-f12280b08fa0,surrounded.apartments,available,19.99,83.99,high,low,10,name.com,,,16/08/2026 22:16
-5fd88ce0-d807-452c-800e-b7e61664b72a,sauvignon.apartments,available,45.74,45.74,medium,low,9,spaceship,,,01/10/2026 07:01
-a9bca4e6-e643-40df-ac9a-5d32da86f2a0,hash.apartments,available,45.74,45.74,high,medium,4,spaceship,,,29/09/2026 01:16
-8d23dc7a-32bf-4650-aa43-4309c01d3c7c,compeer.apartments,available,19.99,83.99,medium,low,7,name.com,,,17/08/2026 11:35
-333c13ae-13ac-4c29-80a3-6531db1a80c0,xenon.apartments,available,57.99,57.99,high,low,5,namesilo,,,20/09/2026 23:13
-9adcac07-2086-40b0-b168-7f4061e62ff3,capra.apartments,available,60.98,72.98,high,low,5,namecheap,,,01/10/2026 18:54
-359e6c88-4437-40a0-8252-6a96bd9b716c,dairy.apartments,available,57.99,57.99,high,low,5,namesilo,,,01/10/2026 10:55
-f2365325-0217-41fc-9dcf-e80b251b7734,dracula.apartments,available,45.74,45.74,high,low,7,spaceship,,,29/09/2026 16:40
-831c8176-e1f9-4db7-a852-4c464dd639d7,farley.apartments,available,45.74,45.74,medium,low,6,spaceship,,,30/09/2026 13:41
-6baa5284-c941-4772-81d4-4969f510b5b0,bruised.apartments,available,57.99,57.99,medium,low,7,namesilo,,,30/09/2026 23:32
-dd4e6c34-6bf9-4b64-af2a-d8fc6f3c3943,mail.apartments,available,10.92,47.3,high,medium,4,dynadot,,,02/10/2026 01:52
-91ebb375-52b8-4f8e-a62a-ee106df87079,automated.apartments,available,60.98,72.98,high,low,9,namecheap,,,22/09/2026 13:58
-5be5799b-2688-417b-9ff0-a1d6897bcd2b,cockcrow.apartments,available,57.99,57.99,medium,low,8,namesilo,,,11/09/2026 02:11
-d0d4118f-7245-4595-95e5-c1dc2df9d5d4,checking.apartments,available,57.99,57.99,high,low,8,namesilo,,,25/09/2026 12:11
-b3e70c0a-4660-4061-a073-a11927afae84,platforms.apartments,available,57.99,57.99,medium,low,9,namesilo,,,01/10/2026 00:18
-b6146111-3750-4730-8343-bfe24bcbbfe4,mcmaster.apartments,available,45.74,45.74,medium,low,8,spaceship,,,29/09/2026 01:24
-db42b292-f74f-456d-94f6-920f56c1d12e,obtain.apartments,available,44.2,44.2,high,low,6,cloudflare,,,30/09/2026 21:13
-edd3c3fa-0be0-48c5-845f-2e259d0f2048,dissatisfied.apartments,available,45.74,45.74,medium,low,12,spaceship,,,29/09/2026 21:05
-009f4c5c-fa88-49e0-8ea6-e2217d38d0c0,brownian.apartments,available,60.98,72.98,medium,low,8,namecheap,,,01/10/2026 23:12
-a1d72688-cc70-40e2-8ffc-251c485ee727,filled.apartments,available,60.98,72.98,high,low,6,namecheap,,,24/09/2026 18:13
-625208c0-873c-42ff-8470-c6a2ca02105e,boggs.apartments,available,44.2,44.2,medium,low,5,cloudflare,,,29/09/2026 04:30
-1a4ae4c0-450a-4678-81d9-66f66221853c,advised.apartments,available,45.74,45.74,high,low,7,spaceship,,,01/10/2026 02:49
-17889013-0ae9-408f-b84d-91ded6a8c474,blyth.apartments,available,45.74,45.74,medium,low,5,spaceship,,,29/09/2026 22:39
-bd547a10-ff5f-4b41-ba9c-0df2211d433f,spit.apartments,available,60.98,72.98,medium,low,4,namecheap,,,15/09/2026 20:17
-c3341ad3-c433-459b-94d1-5f48df21147b,miri.apartments,available,57.99,57.99,high,low,4,namesilo,,,16/09/2026 16:35
-3827f9e0-31f0-48d8-895e-0e23b6d205a2,necromancy.apartments,available,57.99,57.99,medium,low,10,namesilo,,,23/09/2026 23:53
-6efafe5a-9bdf-478f-8ffd-862276aca45f,bowl.apartments,available,57.99,57.99,high,low,4,namesilo,,,24/09/2026 07:38
-f09382c2-1a4b-4434-bb9a-46dc0abd3d0c,denomination.apartments,available,10.81,45.83,medium,low,12,porkbun,,,30/09/2026 22:29
-9580e57c-059f-4489-bcdb-8ada0549c0a4,selfesteem.apartments,available,57.99,57.99,high,low,11,namesilo,,,30/09/2026 06:09
-a13f4bee-4422-4fd1-8bc2-b2e3d01ab86b,sunshade.apartments,available,57.99,57.99,high,low,8,namesilo,,,21/09/2026 10:14
-0b573034-4fdc-40fb-8c9e-c57fe57c4bc6,irritate.apartments,available,57.99,57.99,medium,low,8,namesilo,,,29/09/2026 14:40
-c25b56dd-f7a9-4fcb-a9c9-80da96032ebd,beaches.apartments,available,57.99,57.99,high,low,7,namesilo,,,20/09/2026 07:25
-37c0f75a-1da2-442a-add9-2ba4b1163d7d,description.apartments,available,19.99,,high,low,11,name.com,,,
-9503260c-08bb-463d-97ad-45adc459a7f3,wrestle.apartments,available,44.2,44.2,high,low,7,cloudflare,,,29/09/2026 01:07
-7246e936-bc6b-4ac9-bcfc-0559493245ec,ferc.apartments,available,45.74,45.74,medium,low,4,spaceship,,,01/10/2026 07:41
-035b48b3-655f-41e9-b9df-09834233dd78,helmet.apartments,available,57.99,57.99,high,low,6,namesilo,,,25/09/2026 23:05
-802c5a1f-38ff-40f0-bae2-bd0a26ddba91,nuisance.apartments,available,45.74,45.74,medium,low,8,spaceship,,,29/09/2026 19:51
-e0ae23a9-5cc6-4199-8d32-b4b8f2f8c66c,gaining.apartments,available,45.74,45.74,medium,low,7,spaceship,,,28/09/2026 11:29
-8765b8e6-312b-42e2-aba0-0b1534729a3d,attenuate.apartments,available,19.99,83.99,medium,low,9,name.com,,,07/08/2026 15:21
-3d14a91e-47f3-4516-a0b2-649999f29a29,sosa.apartments,available,57.99,57.99,medium,low,4,namesilo,,,01/10/2026 06:54
-2ed7a476-0b4a-4056-ac5f-4f3b01259ff8,newtonian.apartments,available,57.99,57.99,medium,low,9,namesilo,,,03/09/2026 16:55
-1952657e-4847-4648-b95f-3836583dda5d,dalton.apartments,available,45.74,45.74,high,low,6,spaceship,,,28/09/2026 13:51
-39fd59ac-b324-406b-86c8-4141c3829188,monacan.apartments,available,19.99,83.99,medium,low,7,name.com,,,25/08/2026 04:01
